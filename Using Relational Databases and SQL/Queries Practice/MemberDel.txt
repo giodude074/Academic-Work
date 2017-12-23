@@ -1,0 +1,27 @@
+1)
+CREATE USER 'user'@'hostname' IDENTIFIED BY 'password';
+CREATE USER 'giovanni'@'localhost' IDENTIFIED BY 'giodude';
+GRANT USAGE ON ecst_employee.* TO 'giovanni'@'localhost';
+GRANT SELECT ON ecst_employee.* TO 'giovanni'@'localhost';
+
+
+2)
+CREATE TABLE MemberDel (
+	FirstName varchar (25) ,
+	LastName varchar (25) ,
+	DeletionDate date
+);
+
+DELIMITER //
+CREATE TRIGGER trg_MemberDelete
+BEFORE DELETE ON Members
+ FOR EACH ROW
+ BEGIN
+  INSERT INTO MemberDel
+  VALUES(OLD.Firstname, OLD.Lastname,CURDATE());
+ END//
+DELIMITER ;
+
+
+DELETE FROM Members
+WHERE FirstName = 'Vic';

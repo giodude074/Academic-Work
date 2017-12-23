@@ -1,0 +1,43 @@
+1a) Select firstname,  
+	From members 
+	WHERE Birthday=(
+		SELECT MIN(birthday) 
+		from members);
+
+1b) Select firstname,  
+	From members 
+	WHERE Birthday=(
+		SELECT MAX(birthday) 
+		from members);
+		
+2)  Select g.genre
+	From genre g
+	WHERE genre NOT IN(
+		Select DISTINCT genre FROM Titles);
+		
+3)	Select tr.tracktitle
+	FROM tracks tr
+	WHERE titleID IN(
+		SELECT ArtistID FROM Artists
+		WHERE Artistname = â€˜The Neuroticsâ€™);
+4)
+With JOINS
+	SELECT COUNT(WebAddress) 
+	FROM Artists
+	WHERE  ;
+
+
+SUBQUERY
+
+	SELECT COUNT(webaddress)
+	FROM Artists
+	GROUP BY Artist
+	HAVING COUNT(webaddress) > (   );
+	
+	SELECT 100 * (SELECT COUNT(*) 
+	FROM Artists) / (SELECT COUNT(webaddress) FROM Artists, Members);
+
+
+5) SELECT artistname
+	from artists
+	WHERE artistIDID IN (SELECT FROM members WHERE gender ='F'> 100 salespeople);

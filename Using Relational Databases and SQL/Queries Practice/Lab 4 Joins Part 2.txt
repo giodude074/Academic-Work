@@ -1,0 +1,76 @@
+CS 122: Lab 4: Joins (Part 2)
+Explanations Included
+
+1) Give me a list of genres that haven't been used (in any titles) yet. 
+ SELECT title, titles.genre, genre.genre
+ ->FROM genre, titles
+ ->WHERE (Titles.genre != genre.genre);
+ 
+ I chose to select from titles and titles.genre genre.genre because we 
+ need to see both titles that have genres and the ones that don't.
+ Then i joined both tables with a equi-join when the title  
+ does not have a genre.
+
+2) Provide a list of artists (groups) that haven't recorded at the studio "Pacific Rim" 
+SELECT a.artistname, t.title, s.studioname
+->FROM artists a LEFT JOIN title t ON (artists.artistID = titles.artistID)
+->LEFT JOIN studioname s ON (titles.studioID = studios.studioID)
+->WHERE NOT (Studio= 'Pacific Rim');
+
+I chose the columns artist name title and studio name because the artists and studio
+ tables are connected with the Titles table. I used left joins, to go from Artists 
+ and titles i used the ArtistID key that connects them. To go from Titles to studios
+ i used StudioID. It returns the rows when the studio is not 'Pacific Rim'.
+
+
+
+3)Give me the name of salespeople who have not worked with any members. 
+SELECT s.firstname, s.lastname, m.membersid
+->FROM members m LEFT JOIN Salespeople s
+->ON(m.salesID = s.salesID)
+->WHERE members IS NULL;
+
+i gave them column aliases. I chose members and the first name and last name of the
+sales people. I left joind the tables members and salespeople. I compared the salesID
+from both tables to check when the sales ID is Null. 
+
+
+
+Using the ecst_employee database: 
+4) List all people who work under Dr. Pamula. 
+SELECT Firstname, LastName, 
+->FROM Employee E join Employee s
+->ON(e.employeeid = s.supervisorid) 
+->WHERE NOT (E.SupervisorID > 1 AND E.SupervisorID IS NULL);
+
+I used a self join beacuse there is only one table and whe 
+are comparing columns on the same table. I used First name 
+and last name of the employees. It then checks to see if the
+ supervisor ID is null or greater than 1. If it is null, the 
+ supervisor is above Dr.Pamula and we dont want that, it has to be
+ greater than 1 because dr.Pamula's Supervisor ID is 1.
+
+5)List employees that have fewer than 2 supervisors. 
+SELECT Firstname, LastName, 
+->FROM Employee E join Employee s
+->ON(e.employeeid = s.supervisorid) 
+->WHERE (E.SupervisorID < 2);
+
+I used a self join and again got the first name and last name of the employees.
+then i used the two employee IDs to check if the employees have less than 2 
+supervisors.
+
+         
+
+
+
+
+
+
+
+
+
+
+
+
+End

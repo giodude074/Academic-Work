@@ -1,0 +1,91 @@
+CS 122 Lab 6: GROUP BY and HAVING
+
+
+
+
+1) Find the total number of tracks produced by each studio.
+
+SELECT s.studioname, COUNT(tr.tracktitle) AS TotalTracks
+FROM tracks tr JOIN titles t ON (tr.titleID = t.titleID)
+JOIN studios s ON (t.studioID = s.studioID)
+GROUP BY studioname;
+
+
+
+
+2)Find the region(s) with multiple members (i.e. regions with more than one member).
+
+SELECT m.region, COUNT(M.Firstname) AS MembersINRegions
+FROM members m
+GROUP BY region;
+
+
+
+
+
+
+3)Count how many genres of albums have been produced, out of ALL POSSIBLE GENRES.
+
+SELECT g.genre, COUNT(t.title) 
+FROM genre g left join titles t on(g.genre= t.genre)
+GROUP BY genre;
+
+
+
+
+
+4) Find the total number of artists (groups) per country, and find the average artist name length per country.
+
+
+SELECT a.artistname, COUNT(a.country) AS ArtistsPerCountry
+FROM artists a
+GROUP BY country
+HAVING avg(artistname);
+
+
+
+LENGTH()
+
+
+
+
+
+5)Create a view that lists the first and last names of every person in the database (in members and salespeople).
+(Hint: Combine all names in members and salespeople. DO NOT USE JOINS.)
+Take a screenshot of this view.
+Using the view, list how many people have first names longer than 6 letters. 
+
+CREATE VIEW Everyone AS
+SELECT s.firstname, s.lastname,m.firstname, m.lastname
+FROM Salespeople s JOIN Members m USING(SalesID)
+GROUP BY SalesID;
+
+
+
+show tables;     // to view the above view as a virtual table in your list of tables
+
+
+
+
+6)Find the total number of mp3's produced by each studio. If each mp3 is $3 apiece on Itunes, find the dollar amount expected per studio if 1000 people buy each mp3. 
+Put this all in one table with Columns Listed:
+"Studio", "Total MP3s", "Dollar Value"
+
+SELECT s.studioname, count(mp3) as 'Totalmp3s'
+FROM tracks tr left join titles t on (tr.titleID = t.titleID)
+left join studios s on (t.studioID= s.studioID)
+
+
+
+7)Find member names that have helped produce fewer than 10 tracks. 
+(Keep in mind there are members with NO tracks at all).
+Put these in DESCENDING order by number of tracks. 
+Explain your answer. 
+
+Select m.firstname COunt(tr.tracktitle)
+FROM tracks tr INNER JOIN titles ti ON tr.titleID = ti.titleID
+INNER JOIN artists ar ON tr.artistID = ti.artistID
+INNER JOIN Members me ON me.artistID =  ar.artistID
+Group by firstname
+HAVING (tracks <= 10)
+ORDER BY firstname DESC;

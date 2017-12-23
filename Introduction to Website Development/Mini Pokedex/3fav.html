@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+		
+			<title>Which Pokemon? </title>
+			<link rel= "stylesheet" href = "style/3fav.css"/>
+			
+		</head>
+		
+		
+		<body>
+			<header>
+			
+				<img class = "logo" src = "images\Pokemon_Logo.png" alt = "Pokemon Logo"/>
+			</header>
+			
+			<article>
+		
+				
+					<div>
+						<p class= "poke">
+							Pokemon (Japanese:Pocket Monsters, 
+							Pokémon for short) is an overarching media 
+							franchise owned by Nintendo, Creatures, Inc., and Game
+							Freak. First appearing in 1996 with the release of its 
+							first entries on the Game Boy, the game series has since
+							inspired an array of media, including an anime, a card 
+							game, numerous manga, and various spin-off games.
+						</p>
+						
+						<p>
+							The series focuses on the creatures known as Pokémon, 
+							as well as their inhabited world, full of legends, tales, 
+							and adventures. Several interpretations of the world explore
+							different themes and elements. Most commonly, Pokémon coexist 
+							with humans and can be caught, trained, and used in battles
+							and other activities. Trainers, along with their Pokémon, 
+							travel across diverse lands aiming to make their dreams become 
+							reality
+
+						</p>
+					</div>
+				
+			
+				
+				
+					<div id="gengar" class= "pokemon" >
+							<h3> Gengar </h3>
+							
+							<div class= "imgAudio">	
+								<img class = "pic" src = "images\gengar.png" alt = "Pokemon Gengar"/>
+								<audio class = "audio" controls="controls">
+									<source src="audio/LavenderTown.m4a" >Lavender Town Theme Song </source>
+									Your browser does not support the audio element.
+								</audio>
+							</div>
+							
+							<p>
+								Gengar (Japanese: Gangar) is a dual-type Ghost/Poison Pokémon. 
+								It evolves from Haunter when traded. It is the final form of Gastly. It
+								can Mega Evolve into
+								Mega Gengar using the Gengarite. Gengar is very mischievous, and at times,
+								malicious. It enjoys playing practical jokes and casting curses, such as 
+								pretending to be one's shadow, then behaving erratically. When the quarry 
+								notices, the Gengar takes delight in its victim's terror. However, Gengar 
+								has been known to be loyal to a Trainer who treats it well. Gengar lives 
+								in shadows of rooms, caves, and dark places where shadows form. It is
+								especially fond of urban areas such as cities and back alleys, but only 
+								during the night. 
+							</p>
+					</div>
+					
+					<div id="snorlax" class= "pokemon">
+							<h3>Snorlax</h3>
+							
+							
+							<div class= "imgAudio">	
+								<img class = "pic" src = "images\snorlax.gif" alt = "Pokemon Snorlax"/>
+								<audio class = "audio" controls="controls">
+									<source src="audio/PokefluteSong.m4a" > Pokeflute: Use to Wake Up Snorlax </source>
+									Your browser does not support the audio element.
+								</audio>
+							</div>
+							
+							
+							<p>
+								Snorlax (Japanese: Kabigon) is a Normal-type Pokémon.
+								It evolves from Munchlax when leveled up with high friendship.
+								In the Generation I and II games and their remakes, wild Snorlax 
+								can be found sleeping in inconvenient locations throughout Kanto. 
+								<strong> In order to catch one, a Trainer must first awaken it with 
+								music from either a Poké Flute</strong> or Pokégear set to the Poké 
+								Flute channel. Snorlax is often 
+								found in mountains and forests. It wakes up only to eat and seldom for
+								exercises. It is not a picky eater, as its strong stomach allows it to 
+								eat even moldy food without feeling any ill effects. When hungry, it is 
+								not satisfied until it consumes 900 pounds of food. Snorlax is docile
+								enough to let children and small Pokémon bounce on its large stomach.
+							</p>
+					</div>
+					
+					<div id="alakazam" class= "pokemon">
+					
+							<h3>Alakazam</h3>
+							
+							
+							<div class= "imgAudio">	
+								<img class = "pic" src = "images\alakazam.png" alt = "Pokemon Alakazam"/>
+								<audio class = "audio" controls="controls">
+									<source src="audio/AlakazamCry.m4a" > Alakazam's Cry </source>
+									Your browser does not support the audio element.
+								</audio>
+							</div>
+							
+							
+							<p>
+								Alakazam (Japanese:Foodin) is a Psychic-type Pokémon. It evolves from Kadabra 
+								when traded. It is the final form of Abra. It can Mega Evolve into Mega Alakazam
+								using the Alakazite.
+								Alakazam is able to use all forms of psychic abilities. These powers are used to
+								move its body, as opposed to its weak muscles. It also uses its psychic powers to
+								hold up its head, which is too heavy to be supported by its neck, due to its 
+								continually growing brain. It is said to have an excellent memory and can 
+								remember everything that it has experienced since hatching as an Abra, and has 
+								an IQ that exceeds 5,000. It is found in urban areas.
+							
+							</p>
+					</div>
+					
+					
+				
+				
+			</article>
+			
+			<!--javascript-->
+				<script type="text/JavaScript">
+					
+				        var choice;
+							do{        
+								choice = window.prompt("Enter G for Gengar, S for Snorlax, or A for Alakazam.");
+								choice = choice.toUpperCase();
+							} 
+							while (choice != 'G' && choice != 'S' && choice != 'A');
+							
+							
+							
+							
+								
+							if(choice == 'G')
+								document.getElementById('gengar').className = "visible";
+								
+							if(choice == 'S')
+								document.getElementById('snorlax').className = "visible";
+								
+							if(choice == 'A')
+								document.getElementById('alakazam').className = "visible";
+								
+							if (choice == false)
+								window.alert("You Suck -.-' ");
+
+								
+							
+							
+				</script>
+			
+		</body>
+	</html>

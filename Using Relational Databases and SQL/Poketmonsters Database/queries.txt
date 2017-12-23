@@ -1,0 +1,82 @@
+Explanations
+Poketmonsters Database
+Description: 
+A database that contains a record of the different regions trainers and pokemon from the pokemon world.
+Pokemon is a video game, show, trading card game, and a manga.
+
+
+Tables:
+Trainers : A table of Pokemon trainers.
+		
+
+TrainerID	-int			-Primary Key of the Table
+TrainerName	-varchar		-Name of Trainer
+City		-varchar		-City where the trainer is from
+Town		-varchar		-Town where the trainer is from
+Region		-varchar		-Region where the trainer is from
+Gender		-char		    -Gender of trainer (M or F)
+Age			-int	        -The Trainer's age
+
+		
+		
+Regions : A table of the different regions that exist in the Pokemon World		
+
+RegionID			-smallint	-Primary Key of the Table
+RegionName			-varchar		-Region's name
+PkmnProfessor		-varchar		-The Region's Professor's name
+RegionalVillains	-varchar		-The Region's local villain team 
+Population			-int	        -The population in each Region
+
+
+		
+		
+xrefPokemon :  A cross-referencing table of the different Pokemon that exist.It matches regions and pokedex numbers to pokemon. It also matches pokemon and regions to trainers. 	
+	
+DexID		-int			-Primary Key of the Table, the pokedex number of the pokemon.
+PkmnName	-varchar		-Pokemon's name
+WeightLBS	-real	        -The Pokemon's weight in lbs
+Types		-varchar		-The Pokemon's type
+RegionID	-int        	-An int that relates RegionIDs
+TrainerID	-int        	-An int that relates trainerIDs
+
+-----------------------------------------------------------------------------------
+
+
+Queries
+
+List all pokemon with a weight greater than the average weight of all pokemon.
+SELECT PkmnName
+FROM xrefPokemon
+WHERE WeightLBS > (SELECT AVG(WeightLBS) 
+	FROM xrefPokemon);
+
+
+List all pokemon that the pokemon trainer with the ID of 1 has owned.
+SELECT PkmnName 
+FROM xrefPokemon
+WHERE TrainerID = (
+SELECT trainerID FROM trainers
+WHERE trainerID = 1);
+
+How many pokemon has Misty had?
+select count(dexid) as MistyCaught
+from trainers join xrefPokemon using(trainerId)
+where trainerName = 'Misty';
+
+What is the name and age of the youngest trainer.
+select trainername, min(age)
+from trainers;
+
+Returns the names of all pokemon in the database and what region they belong to. 
+SELECT pkmnName, Regionname
+FROM regions INNER JOIN xrefpokemon
+USING (regionID); 
+
+
+
+
+
+
+
+
+

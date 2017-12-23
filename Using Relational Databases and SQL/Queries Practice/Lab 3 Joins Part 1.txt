@@ -1,0 +1,78 @@
+CS 122: Week 3: Joins (Part 1)
+
+1) Use an inner join to join the Titles table with the Tracks table. 
+SELECT ti.title, tr.tracktitle 
+->FROM Tracks tr INNER JOIN Titles ti
+->ON (ti.titleID = tr.titleID);
+
+first you look for the album Title with their respective tracks.
+you look for the same primary key, which in this case is titleID
+here the table alias for tracks is "tr" and "ti" for titles, it 
+makes what we have to type out shorter
+
+and you can use "ON" instead of "WHERE"
+
+
+
+2)Produce a list of artistnames, along with the firstname, 
+lastname, and home phone of each responsible party for each artist group. 
+
+SELECT DISTINCT a.ArtistName, m.firstname, m.lastname, m.homephone
+->FROM Members M JOIN XrefArtistsMembers X USING (memberID)
+->JOIN Artists A USING (artistID);
+
+select distinct will only display one copy of each
+using the XrefArtistsMembers table can get an individual's name under the 
+artists table and also get their home phone number listed in 
+the members table. We do this by joining them with the primary keys. 
+You also define what the variables a and m mean.
+
+
+
+
+3)Provide a list of all Mp3's that are produced by each studio. 
+(Give tracktitle and studio name). 
+SELECT Tracktitle, Studioname
+->FROM Tracks, studio
+->WHERE TrackTitle 
+->LIKE MP3=1;
+
+you select the tracktitle from the tracks table and studio name from the studio table.
+Then you look at tracktitle,when mp3 =1 it means if it's true. If the track is and an 
+mp3 file list the tracktitle and the studio name it belongs to.
+
+
+
+
+4)I need information for an artists' label publication. 
+Provide The artists' name, associated studio address (address, 
+city, and country) along with UPC code (number). 
+
+SELECT a.Artistname, ti.titles, s.address, s.city, s.country
+->FROM Artists, Titles, Studios
+->WHERE A.artists = ti.Titles  AND ti.Titles = s.Studios;
+i selected the individual's artist name from the artists table, 
+the upc code from the titles table , and the address, city, and
+ country from the studios table.
+I joined the tables using two equi-join conditions.
+
+
+
+
+5)Provide a list of all track titles produced by the Artist "The Neurotics". 
+
+SELECT Tracktitle, Artists
+-> FROM tracks
+-> Where Artistname = 'The Neurotics';
+
+ We look at the tables Artists and tracks, we get the track title 
+ form the tracks table only if the artists name is "the Neurotics.
+
+
+
+
+
+
+
+
+End
