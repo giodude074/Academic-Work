@@ -1,0 +1,2 @@
+### Specifications:
+Replicate the attatched image in JavaFX, except do this in a Tab Pane with two tabs. This design should appear in the front or first tab. Don't worry about events. Use Scene Builder.

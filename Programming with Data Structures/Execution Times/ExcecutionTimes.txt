@@ -1,0 +1,7 @@
+Array size | Selection Sort | Insertion Sort | Bubble Sort | Merge Sort | Quick Sort | Heap Sort 
+50000      | 6817 ms        | 10418 ms       | 19816 ms    | 63 ms      |            | 125 ms
+100000     | 26381 ms       | 43063 ms       | 78767 ms    | 63 ms      |            | 62 ms
+150000     | 64087 ms       | 47007 ms       | 166017 ms   | 78 ms      |            | 125 ms
+200000     | 105909 ms      | 85355 ms       | 295222 ms   | 399 ms     |            | 125 ms
+250000     | 165609 ms      | 130600 ms      | 465816 ms   | 125 ms     |            | 141 ms
+300000     | 383616 ms      | 189135 ms      | 788027 ms   | 282 ms     |            | 266 ms

@@ -1,0 +1,416 @@
+Model,Displ,Cyl,Trans,Drive,Fuel,Sales Area,Stnd,Stnd Description,Underhood ID,Veh Class,Smog Rating,City MPG,Hwy MPG,Cmb MPG,Greenhouse Gas Score,SmartWay
+ACURA ILX,2.4,4,AutoMan-8,2WD,Gasoline,CA,L3ULEV125,California LEV-III ULEV125,GHNXV02.4XH3,small car,6,25,36,29,7,Yes
+ACURA RLX,3.5,6,AutoMan-7,4WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GHNXV03.5PK3,midsize car,7,28,32,30,7,Yes
+ACURA RLX,3.5,6,AutoMan-7,4WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,GHNXV03.5PK3,midsize car,8,28,32,30,7,Yes
+ACURA TLX,2.4,4,AMS-8,2WD,Gasoline,CA,U2,California LEV-II ULEV,GHNXJ02.41A3,small car,6,24,35,28,7,Yes
+AUDI A3 Cabriolet,1.8,4,AMS-6,2WD,Gasoline,FA,B2,Federal Tier 2 Bin 2,GVGAV02.0APA,small car,9,24,35,28,7,Yes
+AUDI A3 Cabriolet,1.8,4,AMS-6,2WD,Gasoline,CA,PZEV,California PZEV,GVGAV02.0APA,small car,9,24,35,28,7,Yes
+AUDI A6,2,4,AMS-7,2WD,Gasoline,CA,L3ULEV125,California LEV-III ULEV125,GVGAV02.0AAC,midsize car,6,24,35,28,7,Yes
+AUDI A6,2,4,AMS-7,2WD,Gasoline,FA,T3B125,Federal Tier 3 Bin 125,GVGAV02.0AAC,midsize car,6,24,35,28,7,Yes
+BLUECAR S.A.S. Bluecar,N/A,N/A,Man-1,2WD,Electricity,FA,B1,Federal Tier 2 Bin 1,GBRGV00.0L8X,small car,10,84,67,76,10,Elite
+BLUECAR S.A.S. Bluecar,N/A,N/A,Man-1,2WD,Electricity,CA,ZEV,California ZEV,GBRGV00.0L8X,small car,10,84,67,76,10,Elite
+BMW 320i,2,4,Man-6,2WD,Gasoline,CA,L2ULEV125,California LEV-II ULEV125,GBMXJ02.0N20,small car,6,23,36,28,7,Yes
+BMW 320i,2,4,SemiAuto-8,2WD,Gasoline,CA,L2ULEV125,California LEV-II ULEV125,GBMXJ02.0N20,small car,6,24,36,28,7,Yes
+BMW 328d,2,4,SemiAuto-8,2WD,Diesel,CA,U2,California LEV-II ULEV,GBMXV02.0N47,small car,6,32,42,36,7,Yes
+BMW 328d,2,4,SemiAuto-8,4WD,Diesel,CA,U2,California LEV-II ULEV,GBMXV02.0N47,small car,6,30,40,34,7,Yes
+BMW 328d Sports Wagon,2,4,SemiAuto-8,4WD,Diesel,CA,U2,California LEV-II ULEV,GBMXV02.0N47,station wagon,6,30,40,34,7,Yes
+BMW X5 xDrive40e,2,4,SemiAuto-8,4WD,Gasoline/Electricity,FA,B5,Federal Tier 2 Bin 5,GBMXT02.0H20,standard SUV,5,23/55,25/57,24/56,8,Yes
+BMW X5 xDrive40e,2,4,SemiAuto-8,4WD,Gasoline/Electricity,CA,U2,California LEV-II ULEV,GBMXT02.0H20,standard SUV,6,23/55,25/57,24/56,8,Yes
+BUICK Encore,1.4,4,SemiAuto-6,2WD,Gasoline,CA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,small SUV,6,25,33,28,7,Yes
+BUICK Encore,1.4,4,SemiAuto-6,2WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,small SUV,6,25,33,28,7,Yes
+CADILLAC ELR,1.4,4,CVT,2WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,GGMXV01.4088,small car,8,28/49,33/52,30/50,10,Yes
+CADILLAC ELR,1.4,4,CVT,2WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,GGMXV01.4088,small car,8,31/87,33/83,32/85,10,Yes
+CADILLAC ELR,1.4,4,CVT,2WD,Gasoline/Electricity,FA,T3B85,Federal Tier 3 Transitional Bin 85,GGMXV01.4088,small car,7,28/49,33/52,30/50,10,Yes
+CADILLAC ELR,1.4,4,CVT,2WD,Gasoline/Electricity,FA,T3B85,Federal Tier 3 Transitional Bin 85,GGMXV01.4088,small car,7,31/87,33/83,32/85,10,Yes
+CHEVROLET Cruze Limited,1.4,4,Man-6,2WD,Gasoline,CA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,midsize car,6,26,38,30,7,Yes
+CHEVROLET Cruze Limited,1.4,4,Man-6,2WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,midsize car,6,26,38,30,7,Yes
+CHEVROLET Cruze Limited,1.4,4,SemiAuto-6,2WD,Gasoline,CA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,midsize car,6,26,38,30,7,Yes
+CHEVROLET Cruze Limited,1.4,4,SemiAuto-6,2WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,midsize car,6,26,38,30,7,Yes
+CHEVROLET Cruze Limited,1.8,4,Man-6,2WD,Gasoline,CA,B4,Federal Tier 2 Bin 4,GGMXV01.8011,midsize car,6,25,36,29,7,Yes
+CHEVROLET Cruze Limited,1.8,4,Man-6,2WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GGMXV01.8011,midsize car,6,25,36,29,7,Yes
+CHEVROLET Cruze Limited,1.8,4,Man-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,GGMXV01.8031,midsize car,8,25,36,29,7,Yes
+CHEVROLET Cruze Limited,1.8,4,Man-6,2WD,Gasoline,FA,T3B85,Federal Tier 3 Transitional Bin 85,GGMXV01.8031,midsize car,7,25,36,29,7,Yes
+CHEVROLET Cruze Limited Eco,1.4,4,Auto-6,2WD,Gasoline,CA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,midsize car,6,26,39,31,7,Yes
+CHEVROLET Cruze Limited Eco,1.4,4,Auto-6,2WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,midsize car,6,26,39,31,7,Yes
+CHEVROLET Cruze Limited Eco,1.4,4,Man-6,2WD,Gasoline,CA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,midsize car,6,28,42,33,8,Yes
+CHEVROLET Cruze Limited Eco,1.4,4,Man-6,2WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,midsize car,6,28,42,33,8,Yes
+CHEVROLET Sonic,1.4,4,Man-6,2WD,Gasoline,CA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,small car,6,29,40,33,8,Yes
+CHEVROLET Sonic,1.4,4,Man-6,2WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,small car,6,29,40,33,8,Yes
+CHEVROLET Sonic,1.4,4,SemiAuto-6,2WD,Gasoline,CA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,small car,6,27,37,31,7,Yes
+CHEVROLET Sonic,1.4,4,SemiAuto-6,2WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,small car,6,27,37,31,7,Yes
+CHEVROLET Sonic,1.8,4,Man-5,2WD,Gasoline,CA,B4,Federal Tier 2 Bin 4,GGMXV01.8021,small car,6,26,35,30,7,Yes
+CHEVROLET Sonic,1.8,4,Man-5,2WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GGMXV01.8021,small car,6,26,35,30,7,Yes
+CHEVROLET Sonic,1.8,4,Man-5,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,GGMXV01.8031,small car,8,26,35,30,7,Yes
+CHEVROLET Sonic,1.8,4,Man-5,2WD,Gasoline,FA,T3B85,Federal Tier 3 Transitional Bin 85,GGMXV01.8031,small car,7,26,35,30,7,Yes
+CHEVROLET Sonic,1.8,4,SemiAuto-6,2WD,Gasoline,CA,B4,Federal Tier 2 Bin 4,GGMXV01.8021,small car,6,24,35,28,7,Yes
+CHEVROLET Sonic,1.8,4,SemiAuto-6,2WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GGMXV01.8021,small car,6,24,35,28,7,Yes
+CHEVROLET Sonic,1.8,4,SemiAuto-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,GGMXV01.8031,small car,8,24,35,28,7,Yes
+CHEVROLET Sonic,1.8,4,SemiAuto-6,2WD,Gasoline,FA,T3B85,Federal Tier 3 Transitional Bin 85,GGMXV01.8031,small car,7,24,35,28,7,Yes
+CHEVROLET Sonic 5,1.4,4,Man-6,2WD,Gasoline,CA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,station wagon,6,29,40,33,8,Yes
+CHEVROLET Sonic 5,1.4,4,Man-6,2WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,station wagon,6,29,40,33,8,Yes
+CHEVROLET Sonic 5,1.4,4,SemiAuto-6,2WD,Gasoline,CA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,station wagon,6,27,37,31,7,Yes
+CHEVROLET Sonic 5,1.4,4,SemiAuto-6,2WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,station wagon,6,27,37,31,7,Yes
+CHEVROLET Sonic 5,1.8,4,Man-5,2WD,Gasoline,CA,B4,Federal Tier 2 Bin 4,GGMXV01.8021,station wagon,6,26,35,30,7,Yes
+CHEVROLET Sonic 5,1.8,4,Man-5,2WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GGMXV01.8021,station wagon,6,26,35,30,7,Yes
+CHEVROLET Sonic 5,1.8,4,Man-5,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,GGMXV01.8031,station wagon,8,26,35,30,7,Yes
+CHEVROLET Sonic 5,1.8,4,Man-5,2WD,Gasoline,FA,T3B85,Federal Tier 3 Transitional Bin 85,GGMXV01.8031,station wagon,7,26,35,30,7,Yes
+CHEVROLET Sonic 5,1.8,4,SemiAuto-6,2WD,Gasoline,CA,B4,Federal Tier 2 Bin 4,GGMXV01.8021,station wagon,6,24,35,28,7,Yes
+CHEVROLET Sonic 5,1.8,4,SemiAuto-6,2WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GGMXV01.8021,station wagon,6,24,35,28,7,Yes
+CHEVROLET Sonic 5,1.8,4,SemiAuto-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,GGMXV01.8031,station wagon,8,24,35,28,7,Yes
+CHEVROLET Sonic 5,1.8,4,SemiAuto-6,2WD,Gasoline,FA,T3B85,Federal Tier 3 Transitional Bin 85,GGMXV01.8031,station wagon,7,24,35,28,7,Yes
+CHEVROLET Sonic 5 RS,1.4,4,Man-6,2WD,Gasoline,CA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,midsize car,6,27,34,30,7,Yes
+CHEVROLET Sonic 5 RS,1.4,4,Man-6,2WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,midsize car,6,27,34,30,7,Yes
+CHEVROLET Sonic 5 RS,1.4,4,SemiAuto-6,2WD,Gasoline,CA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,midsize car,6,25,33,28,7,Yes
+CHEVROLET Sonic 5 RS,1.4,4,SemiAuto-6,2WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,midsize car,6,25,33,28,7,Yes
+CHEVROLET Sonic RS,1.4,4,Man-6,2WD,Gasoline,CA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,small car,6,27,34,30,7,Yes
+CHEVROLET Sonic RS,1.4,4,Man-6,2WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,small car,6,27,34,30,7,Yes
+CHEVROLET Sonic RS,1.4,4,SemiAuto-6,2WD,Gasoline,CA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,small car,6,25,33,28,7,Yes
+CHEVROLET Sonic RS,1.4,4,SemiAuto-6,2WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,small car,6,25,33,28,7,Yes
+CHEVROLET Spark,1.4,4,CVT,2WD,Gasoline,CA,L3ULEV70,California LEV-III ULEV70,GGMXV01.4050,small car,7,31,41,35,8,Yes
+CHEVROLET Spark,1.4,4,CVT,2WD,Gasoline,FA,T3B70,Federal Tier 3 Bin 70,GGMXV01.4050,small car,7,31,41,35,8,Yes
+CHEVROLET Spark,1.4,4,Man-5,2WD,Gasoline,CA,L3ULEV70,California LEV-III ULEV70,GGMXV01.4050,small car,7,30,41,34,8,Yes
+CHEVROLET Spark,1.4,4,Man-5,2WD,Gasoline,FA,T3B70,Federal Tier 3 Bin 70,GGMXV01.4050,small car,7,30,41,34,8,Yes
+CHEVROLET Spark EV,N/A,N/A,Auto-1,2WD,Electricity,FA,B1,Federal Tier 2 Bin 1,GGMXV00.0001,small car,10,128,109,119,10,Elite
+CHEVROLET Spark EV,N/A,N/A,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,GGMXV00.0001,small car,10,128,109,119,10,Elite
+CHEVROLET Trax,1.4,4,SemiAuto-6,2WD,Gasoline,CA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,small SUV,6,26,34,29,7,Yes
+CHEVROLET Trax,1.4,4,SemiAuto-6,2WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GGMXV01.4099,small SUV,6,26,34,29,7,Yes
+CHEVROLET Volt,1.5,4,CVT,2WD,Gasoline/Electricity,FA,B5,Federal Tier 2 Bin 5,GGMXV01.5020,small car,5,43/113,42/99,42/106,10,Yes
+CHEVROLET Volt,1.5,4,CVT,2WD,Gasoline/Electricity,CA,L3ULEV125,California LEV-III ULEV125,GGMXV01.5020,small car,6,43/113,42/99,42/106,10,Yes
+CHEVROLET Volt,1.5,4,CVT,2WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,GGMXV01.5030,small car,8,43/113,42/99,42/106,10,Yes
+CHEVROLET Volt,1.5,4,CVT,2WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,GGMXV01.5030,small car,8,43/113,42/99,42/106,10,Yes
+CHRYSLER 200,2.4,4,Auto-9,2WD,Ethanol/Gas,CA,B4,Federal Tier 2 Bin 4,GCRXJ02.45PA,midsize car,6,17/23,28/36,21/28,7,Yes
+CHRYSLER 200,2.4,4,Auto-9,2WD,Ethanol/Gas,FA,B4,Federal Tier 2 Bin 4,GCRXJ02.45PA,midsize car,6,17/23,28/36,21/28,7,Yes
+CHRYSLER 200,2.4,4,Auto-9,2WD,Gasoline,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GCRXJ02.4CP0,midsize car,9,23,36,28,7,Yes
+DODGE Dart,1.4,4,AutoMan-6,2WD,Gasoline,CA,L3ULEV125,California LEV-III ULEV125,GCRXJ01.45P0,midsize car,6,27,37,31,7,Yes
+DODGE Dart,2,4,Man-6,2WD,Gasoline,CA,B4,Federal Tier 2 Bin 4,GCRXV02.45P3,midsize car,6,25,36,29,7,Yes
+DODGE Dart,2,4,Man-6,2WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GCRXV02.45P3,midsize car,6,25,36,29,7,Yes
+DODGE Dart Aero,1.4,4,AutoMan-6,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GCRXJ01.45P0,midsize car,5,28,40,32,8,Yes
+DODGE Dart Aero,1.4,4,AutoMan-6,2WD,Gasoline,CA,L3ULEV125,California LEV-III ULEV125,GCRXJ01.45P0,midsize car,6,28,40,32,8,Yes
+DODGE Dart Aero,1.4,4,Man-6,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GCRXJ01.45P0,midsize car,5,28,41,32,8,Yes
+DODGE Dart Aero,1.4,4,Man-6,2WD,Gasoline,CA,L3ULEV125,California LEV-III ULEV125,GCRXJ01.45P0,midsize car,6,28,41,32,8,Yes
+FIAT 500,1.4,4,Auto-6,2WD,Gasoline,CA,L3ULEV125,California LEV-III ULEV125,GCRXV01.45P1,small car,6,27,34,30,7,Yes
+FIAT 500,1.4,4,Man-5,2WD,Gasoline,CA,L3ULEV125,California LEV-III ULEV125,GCRXJ01.45P0,small car,6,28,34,30,7,Yes
+FIAT 500,1.4,4,Man-5,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GCRXV01.45P1,small car,5,31,40,34,8,Yes
+FIAT 500,1.4,4,Man-5,2WD,Gasoline,CA,L3ULEV125,California LEV-III ULEV125,GCRXV01.45P1,small car,6,31,40,34,8,Yes
+FIAT 500 Abarth,1.4,4,Man-5,2WD,Gasoline,CA,L3ULEV125,California LEV-III ULEV125,GCRXJ01.45P0,small car,6,28,34,30,7,Yes
+FIAT 500L,1.4,4,Man-6,2WD,Gasoline,CA,L3ULEV125,California LEV-III ULEV125,GCRXJ01.45P0,station wagon,6,25,33,28,7,Yes
+FIAT 500X,1.4,4,Man-6,2WD,Gasoline,CA,L3ULEV125,California LEV-III ULEV125,GCRXJ01.45P0,small SUV,6,25,34,28,7,Yes
+FORD C-MAX Energi Plug-In Hybrid,2,4,CVT,2WD,Gasoline/Electricity,FA,B3,Federal Tier 2 Bin 3,GFMXV02.0VZP,midsize car,7,40/95,36/81,38/88,10,Yes
+FORD C-MAX Energi Plug-In Hybrid,2,4,CVT,2WD,Gasoline/Electricity,CA,PZEV,California PZEV,GFMXV02.0VZP,midsize car,9,40/95,36/81,38/88,10,Elite
+FORD C-MAX Hybrid,2,4,CVT,2WD,Gasoline,CA,B3,Federal Tier 2 Bin 3,GFMXV02.0VZN,large car,7,42,37,40,9,Yes
+FORD C-MAX Hybrid,2,4,CVT,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GFMXV02.0VZN,large car,7,42,37,40,9,Yes
+FORD C-MAX Hybrid,2,4,CVT,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GFMXV02.0VZS,large car,7,42,37,40,9,Yes
+FORD C-MAX Hybrid,2,4,CVT,2WD,Gasoline,CA,PZEV,California PZEV,GFMXV02.0VZS,large car,9,42,37,40,9,Yes
+FORD Fiesta,1.6,4,AMS-6,2WD,Gasoline,CA,B4,Federal Tier 2 Bin 4,GFMXV01.6VDC,small car,6,27,37,31,7,Yes
+FORD Fiesta,1.6,4,AMS-6,2WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GFMXV01.6VDC,small car,6,27,37,31,7,Yes
+FORD Fiesta,1.6,4,Man-5,2WD,Gasoline,CA,B4,Federal Tier 2 Bin 4,GFMXV01.6VDC,small car,6,28,36,31,7,Yes
+FORD Fiesta,1.6,4,Man-5,2WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GFMXV01.6VDC,small car,6,28,36,31,7,Yes
+FORD Fiesta SFE,1,3,Man-5,2WD,Gasoline,CA,B4,Federal Tier 2 Bin 4,GFMXV01.0VD1,small car,6,31,43,36,8,Yes
+FORD Fiesta SFE,1,3,Man-5,2WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GFMXV01.0VD1,small car,6,31,43,36,8,Yes
+FORD Fiesta ST,1.6,4,Man-6,2WD,Gasoline,CA,B4,Federal Tier 2 Bin 4,GFMXV01.6VDD,small car,6,26,33,29,7,Yes
+FORD Fiesta ST,1.6,4,Man-6,2WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GFMXV01.6VDD,small car,6,26,33,29,7,Yes
+FORD Focus,1,3,Man-6,2WD,Gasoline,CA,B4,Federal Tier 2 Bin 4,GFMXV01.0VD4,small car,6,30,42,35,8,Yes
+FORD Focus,1,3,Man-6,2WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GFMXV01.0VD4,small car,6,30,42,35,8,Yes
+FORD Focus,1,3,SemiAuto-6,2WD,Gasoline,CA,B4,Federal Tier 2 Bin 4,GFMXV01.0VD4,small car,6,28,40,32,8,Yes
+FORD Focus,1,3,SemiAuto-6,2WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GFMXV01.0VD4,small car,6,28,40,32,8,Yes
+FORD Focus,2,4,AMS-6,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GFMXV02.0VZ2,small car,7,26,38,30,7,Yes
+FORD Focus,2,4,AMS-6,2WD,Gasoline,CA,PZEV,California PZEV,GFMXV02.0VZ2,small car,9,26,38,30,7,Yes
+FORD Focus,2,4,AutoMan-6,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GFMXV02.0VZ2,small car,7,27,40,31,7,Yes
+FORD Focus,2,4,AutoMan-6,2WD,Gasoline,CA,PZEV,California PZEV,GFMXV02.0VZ2,small car,9,27,40,31,7,Yes
+FORD Focus,2,4,Man-5,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GFMXV02.0VZ2,small car,7,26,36,30,7,Yes
+FORD Focus,2,4,Man-5,2WD,Gasoline,CA,PZEV,California PZEV,GFMXV02.0VZ2,small car,9,26,36,30,7,Yes
+FORD Focus Electric,N/A,N/A,Auto-1,2WD,Electricity,FA,B1,Federal Tier 2 Bin 1,GFMXV00.0VAE,small car,10,110,99,105,10,Elite
+FORD Focus Electric,N/A,N/A,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,GFMXV00.0VAE,small car,10,110,99,105,10,Elite
+FORD Focus FFV,2,4,AMS-6,2WD,Ethanol/Gas,CA,B4,Federal Tier 2 Bin 4,GFMXV02.0VD2,small car,6,19/26,28/38,22/30,7,Yes
+FORD Focus FFV,2,4,AMS-6,2WD,Ethanol/Gas,FA,B4,Federal Tier 2 Bin 4,GFMXV02.0VD2,small car,6,19/26,28/38,22/30,7,Yes
+FORD Focus FFV,2,4,AutoMan-6,2WD,Ethanol/Gas,CA,B4,Federal Tier 2 Bin 4,GFMXV02.0VD2,small car,6,20/27,29/40,23/31,7,Yes
+FORD Focus FFV,2,4,AutoMan-6,2WD,Ethanol/Gas,FA,B4,Federal Tier 2 Bin 4,GFMXV02.0VD2,small car,6,20/27,29/40,23/31,7,Yes
+FORD Focus FFV,2,4,Man-5,2WD,Ethanol/Gas,CA,B4,Federal Tier 2 Bin 4,GFMXV02.0VD2,small car,6,19/26,27/36,22/30,7,Yes
+FORD Focus FFV,2,4,Man-5,2WD,Ethanol/Gas,FA,B4,Federal Tier 2 Bin 4,GFMXV02.0VD2,small car,6,19/26,27/36,22/30,7,Yes
+FORD Fusion,1.5,4,SemiAuto-6,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GFMXV01.5VZ1,midsize car,7,24,36,28,7,Yes
+FORD Fusion,1.5,4,SemiAuto-6,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GFMXV01.5VZ1,midsize car,7,25,37,29,7,Yes
+FORD Fusion,1.5,4,SemiAuto-6,2WD,Gasoline,CA,PZEV,California PZEV,GFMXV01.5VZ1,midsize car,9,24,36,28,7,Yes
+FORD Fusion,1.5,4,SemiAuto-6,2WD,Gasoline,CA,PZEV,California PZEV,GFMXV01.5VZ1,midsize car,9,25,37,29,7,Yes
+FORD Fusion Energi Plug-in Hybrid,2,4,CVT,2WD,Gasoline/Electricity,FA,B3,Federal Tier 2 Bin 3,GFMXV02.0VZP,midsize car,7,40/95,36/81,38/88,10,Yes
+FORD Fusion Energi Plug-in Hybrid,2,4,CVT,2WD,Gasoline/Electricity,CA,PZEV,California PZEV,GFMXV02.0VZP,midsize car,9,40/95,36/81,38/88,10,Elite
+FORD Fusion Hybrid,2,4,CVT,2WD,Gasoline,CA,B3,Federal Tier 2 Bin 3,GFMXV02.0VZN,midsize car,7,44,41,42,9,Yes
+FORD Fusion Hybrid,2,4,CVT,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GFMXV02.0VZN,midsize car,7,44,41,42,9,Yes
+FORD Fusion Hybrid,2,4,CVT,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GFMXV02.0VZS,midsize car,7,44,41,42,9,Yes
+FORD Fusion Hybrid,2,4,CVT,2WD,Gasoline,CA,PZEV,California PZEV,GFMXV02.0VZS,midsize car,9,44,41,42,9,Yes
+HONDA Accord,2.4,4,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,GHNXV02.44K3,midsize car,8,27,37,31,7,Yes
+HONDA Accord,2.4,4,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,GHNXV02.44K3,midsize car,8,27,37,31,7,Yes
+HONDA Accord,2.4,4,CVT,2WD,Gasoline,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GHNXV02.45K3,midsize car,9,27,37,31,7,Yes
+HONDA Accord,2.4,4,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,GHNXV02.45K3,midsize car,8,27,37,31,7,Yes
+HONDA Accord,2.4,4,SCV-7,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,GHNXV02.44K3,midsize car,8,26,35,30,7,Yes
+HONDA Accord,2.4,4,SCV-7,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,GHNXV02.44K3,midsize car,8,26,35,30,7,Yes
+HONDA Accord,2.4,4,SCV-7,2WD,Gasoline,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GHNXV02.45K3,midsize car,9,26,35,30,7,Yes
+HONDA Accord,2.4,4,SCV-7,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,GHNXV02.45K3,midsize car,8,26,35,30,7,Yes
+HONDA CR-V,2.4,4,CVT,2WD,Gasoline,CA,U2,California LEV-II ULEV,GHNXJ02.41A3,small SUV,6,26,33,29,7,Yes
+HONDA Civic,1.5,4,CVT,2WD,Gasoline,CA,L3ULEV125,California LEV-III ULEV125,GHNXV01.53H2,midsize car,6,31,42,35,8,Yes
+HONDA Civic,1.5,4,CVT,2WD,Gasoline,FA,T3B125,Federal Tier 3 Bin 125,GHNXV01.53H2,midsize car,6,31,42,35,8,Yes
+HONDA Civic,1.5,4,CVT,2WD,Gasoline,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GHNXV01.56K2,midsize car,9,31,42,35,8,Yes
+HONDA Civic,1.5,4,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,GHNXV01.56K2,midsize car,8,31,42,35,8,Yes
+HONDA Civic,2,4,CVT,2WD,Gasoline,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GHNXV02.0BK3,midsize car,9,31,41,35,8,Yes
+HONDA Civic,2,4,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,GHNXV02.0BK3,midsize car,8,31,41,35,8,Yes
+HONDA Civic,2,4,CVT,2WD,Gasoline,CA,L3ULEV125,California LEV-III ULEV125,GHNXV02.0CH3,midsize car,6,31,41,35,8,Yes
+HONDA Civic,2,4,CVT,2WD,Gasoline,FA,T3B125,Federal Tier 3 Bin 125,GHNXV02.0CH3,midsize car,6,31,41,35,8,Yes
+HONDA Civic,2,4,Man-6,2WD,Gasoline,CA,L3ULEV125,California LEV-III ULEV125,GHNXV02.0CH3,midsize car,6,27,40,31,7,Yes
+HONDA Civic,2,4,Man-6,2WD,Gasoline,FA,T3B125,Federal Tier 3 Bin 125,GHNXV02.0CH3,midsize car,6,27,40,31,7,Yes
+HONDA Fit,1.5,4,CVT,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GHNXV01.5TH2,station wagon,5,33,41,36,8,Yes
+HONDA Fit,1.5,4,CVT,2WD,Gasoline,CA,L3ULEV125,California LEV-III ULEV125,GHNXV01.5TH2,station wagon,6,33,41,36,8,Yes
+HONDA Fit,1.5,4,Man-6,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GHNXV01.5TH2,station wagon,5,29,37,32,8,Yes
+HONDA Fit,1.5,4,Man-6,2WD,Gasoline,CA,L3ULEV125,California LEV-III ULEV125,GHNXV01.5TH2,station wagon,6,29,37,32,8,Yes
+HONDA Fit,1.5,4,SCV-7,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GHNXV01.5TH2,station wagon,5,32,38,35,8,Yes
+HONDA Fit,1.5,4,SCV-7,2WD,Gasoline,CA,L3ULEV125,California LEV-III ULEV125,GHNXV01.5TH2,station wagon,6,32,38,35,8,Yes
+HONDA HR-V,1.8,4,CVT,2WD,Gasoline,CA,U2,California LEV-II ULEV,GHNXV01.8JA3,small SUV,6,28,35,31,7,Yes
+HONDA HR-V,1.8,4,CVT,4WD,Gasoline,CA,U2,California LEV-II ULEV,GHNXV01.8JA3,small SUV,6,27,32,29,7,Yes
+HONDA HR-V,1.8,4,Man-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GHNXV01.8JA3,small SUV,6,25,34,28,7,Yes
+HONDA HR-V,1.8,4,SCV-7,2WD,Gasoline,CA,U2,California LEV-II ULEV,GHNXV01.8JA3,small SUV,6,28,35,31,7,Yes
+HONDA HR-V,1.8,4,SCV-7,4WD,Gasoline,CA,U2,California LEV-II ULEV,GHNXV01.8JA3,small SUV,6,27,32,29,7,Yes
+HYUNDAI Accent,1.6,4,Man-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GKMXV01.6DBE,small car,6,27,38,31,7,Yes
+HYUNDAI Accent,1.6,4,SemiAuto-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GKMXV01.6DBE,small car,6,26,37,30,7,Yes
+HYUNDAI Elantra,1.8,4,Man-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GHYXV01.81DE,midsize car,6,27,37,31,7,Yes
+HYUNDAI Elantra,1.8,4,SemiAuto-6,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GHYXV01.81DE,midsize car,5,28,38,32,8,Yes
+HYUNDAI Elantra,1.8,4,SemiAuto-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GHYXV01.81DE,midsize car,6,28,38,32,8,Yes
+HYUNDAI Elantra,2,4,Man-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GKMXV02.0DFE,midsize car,6,24,34,28,7,Yes
+HYUNDAI Elantra,2,4,SemiAuto-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GKMXV02.0DFE,midsize car,6,24,35,28,7,Yes
+HYUNDAI Elantra,2,4,SemiAuto-6,2WD,Gasoline,CA,PZEV,California PZEV,GKMXV02.0DFP,midsize car,9,24,35,28,7,Yes
+HYUNDAI Elantra Limited,1.8,4,SemiAuto-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GHYXV01.81DE,midsize car,6,27,37,31,7,Yes
+HYUNDAI Elantra Limited,1.8,4,SemiAuto-6,2WD,Gasoline,CA,PZEV,California PZEV,GHYXV01.82DP,midsize car,9,27,37,31,7,Yes
+HYUNDAI Sonata,1.6,4,AutoMan-7,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GHYXV01.6AFE,large car,5,28,38,32,8,Yes
+HYUNDAI Sonata,1.6,4,AutoMan-7,2WD,Gasoline,CA,U2,California LEV-II ULEV,GHYXV01.6AFE,large car,6,28,38,32,8,Yes
+HYUNDAI Sonata,2.4,4,SemiAuto-6,2WD,Gasoline,CA,L3ULEV70,California LEV-III ULEV70,GHYXV02.4AJ4,large car,7,25,38,30,7,Yes
+HYUNDAI Sonata,2.4,4,SemiAuto-6,2WD,Gasoline,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GHYXV02.4BJ2,large car,9,25,38,30,7,Yes
+HYUNDAI Sonata Hybrid,2,4,AutoMan-6,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GHYXV02.01K5,midsize car,5,39,43,41,9,Yes
+HYUNDAI Sonata Hybrid,2,4,AutoMan-6,2WD,Gasoline,CA,L3ULEV125,California LEV-III ULEV125,GHYXV02.01K5,midsize car,6,39,43,41,9,Yes
+HYUNDAI Sonata Hybrid SE,2,4,AutoMan-6,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GHYXV02.01K5,midsize car,5,40,44,42,9,Yes
+HYUNDAI Sonata Hybrid SE,2,4,AutoMan-6,2WD,Gasoline,CA,L3ULEV125,California LEV-III ULEV125,GHYXV02.01K5,midsize car,6,40,44,42,9,Yes
+HYUNDAI Sonata Sport/Limited,2.4,4,SemiAuto-6,2WD,Gasoline,CA,L3ULEV70,California LEV-III ULEV70,GHYXV02.4AJ4,large car,7,25,36,29,7,Yes
+HYUNDAI Sonata Sport/Limited,2.4,4,SemiAuto-6,2WD,Gasoline,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GHYXV02.4BJ2,large car,9,25,36,29,7,Yes
+HYUNDAI Sonata plug-in hybrid,2,4,AutoMan-6,2WD,Gasoline/Electricity,FA,B2,Federal Tier 2 Bin 2,GHYXV02.01M2,midsize car,9,38/99,41/98,40/99,10,Elite
+HYUNDAI Sonata plug-in hybrid,2,4,AutoMan-6,2WD,Gasoline/Electricity,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GHYXV02.01M2,midsize car,9,38/99,41/98,40/99,10,Elite
+HYUNDAI Tuscon Eco,1.6,4,AutoMan-7,2WD,Gasoline,CA,U2,California LEV-II ULEV,GHYXV01.61TE,small SUV,6,26,33,29,7,Yes
+HYUNDAI Tuscon Fuel Cell,N/A,N/A,Auto-1,2WD,Hydrogen,FA,B1,Federal Tier 2 Bin 1,GHYXV00.01YW,small SUV,10,49,51,50,10,Elite
+HYUNDAI Tuscon Fuel Cell,N/A,N/A,Auto-1,2WD,Hydrogen,CA,ZEV,California ZEV,GHYXV00.01YW,small SUV,10,49,51,50,10,Elite
+HYUNDAI Veloster,1.6,4,AutoMan-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GKMXV01.6DBE,small car,6,28,36,31,7,Yes
+HYUNDAI Veloster,1.6,4,AutoMan-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GKMXV01.6DDE,small car,6,27,33,29,7,Yes
+HYUNDAI Veloster,1.6,4,Man-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GKMXV01.6DBE,small car,6,27,35,30,7,Yes
+HYUNDAI Veloster,1.6,4,Man-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GKMXV01.6DDE,small car,6,25,33,28,7,Yes
+KIA Forte,1.8,4,Man-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GKMXV01.84EE,midsize car,6,25,37,30,7,Yes
+KIA Forte,1.8,4,SemiAuto-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GKMXV01.84EE,midsize car,6,26,39,31,7,Yes
+KIA Forte,1.8,4,SemiAuto-6,2WD,Gasoline,CA,PZEV,California PZEV,GKMXV01.85EP,midsize car,9,26,39,31,7,Yes
+KIA Forte,2,4,SemiAuto-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GKMXV02.0DFE,midsize car,6,24,35,28,7,Yes
+KIA Forte,2,4,SemiAuto-6,2WD,Gasoline,CA,PZEV,California PZEV,GKMXV02.0DFP,midsize car,9,24,35,28,7,Yes
+KIA Forte 5,2,4,SemiAuto-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GKMXV02.0DFE,large car,6,25,33,28,7,Yes
+KIA Forte Koup,2,4,SemiAuto-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GKMXV02.0DFE,small car,6,25,34,28,7,Yes
+KIA Optima,1.6,4,AutoMan-7,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GHYXV01.6AFE,large car,5,28,39,32,8,Yes
+KIA Optima,1.6,4,AutoMan-7,2WD,Gasoline,CA,U2,California LEV-II ULEV,GHYXV01.6AFE,large car,6,28,39,32,8,Yes
+KIA Optima,2.4,4,SemiAuto-6,2WD,Gasoline,CA,L3ULEV70,California LEV-III ULEV70,GHYXV02.4AJ4,large car,7,24,35,28,7,Yes
+KIA Optima,2.4,4,SemiAuto-6,2WD,Gasoline,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GHYXV02.4BJ2,large car,9,24,35,28,7,Yes
+KIA Optima FE,2.4,4,SemiAuto-6,2WD,Gasoline,CA,L3ULEV70,California LEV-III ULEV70,GHYXV02.4AJ4,large car,7,25,37,30,7,Yes
+KIA Optima FE,2.4,4,SemiAuto-6,2WD,Gasoline,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GHYXV02.4BJ2,large car,9,25,37,30,7,Yes
+KIA Optima Hybrid,2.4,4,AutoMan-6,2WD,Gasoline,FA,B2,Federal Tier 2 Bin 2,GKMXV02.44JN,midsize car,9,36,40,38,9,Yes
+KIA Optima Hybrid,2.4,4,AutoMan-6,2WD,Gasoline,CA,PZEV,California PZEV,GKMXV02.44JN,midsize car,9,36,40,38,9,Yes
+KIA Optima Hybrid EX,2.4,4,AutoMan-6,2WD,Gasoline,FA,B2,Federal Tier 2 Bin 2,GKMXV02.44JN,midsize car,9,35,39,37,8,Yes
+KIA Optima Hybrid EX,2.4,4,AutoMan-6,2WD,Gasoline,CA,PZEV,California PZEV,GKMXV02.44JN,midsize car,9,35,39,37,8,Yes
+KIA Rio,1.6,4,Man-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GKMXV01.6DBE,small car,6,27,38,31,7,Yes
+KIA Rio,1.6,4,SemiAuto-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GKMXV01.6DBE,small car,6,27,37,31,7,Yes
+KIA Rio ECO,1.6,4,SemiAuto-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GKMXV01.6DBE,small car,6,28,37,31,7,Yes
+KIA Soul Electric,N/A,N/A,Auto-1,2WD,Electricity,FA,B1,Federal Tier 2 Bin 1,GKMXV00.04VW,station wagon,10,120,92,105,10,Elite
+KIA Soul Electric,N/A,N/A,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,GKMXV00.04VW,station wagon,10,120,92,105,10,Elite
+LEXUS CT 200h,1.8,4,CVT,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GTYXV01.8PCU,small car,7,43,40,42,9,Yes
+LEXUS CT 200h,1.8,4,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,GTYXV01.8PCU,small car,8,43,40,42,9,Yes
+LEXUS ES 300h,2.5,4,SCV-6,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GTYXV02.5PC4,midsize car,7,40,39,40,9,Yes
+LEXUS ES 300h,2.5,4,SCV-6,2WD,Gasoline,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GTYXV02.5PC4,midsize car,9,40,39,40,9,Yes
+LEXUS NX 300h,2.5,4,SCV-6,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GTYXT02.5PCM,small SUV,7,35,31,33,8,Yes
+LEXUS NX 300h,2.5,4,SCV-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,GTYXT02.5PCM,small SUV,8,35,31,33,8,Yes
+LEXUS NX 300h,2.5,4,SCV-6,4WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GTYXT02.5PCM,small SUV,7,33,30,32,8,Yes
+LEXUS NX 300h,2.5,4,SCV-6,4WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,GTYXT02.5PCM,small SUV,8,33,30,32,8,Yes
+LEXUS RX 450h,3.5,6,SCV-6,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GTYXT03.5PC4,small SUV,7,31,30,30,7,Yes
+LEXUS RX 450h,3.5,6,SCV-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,GTYXT03.5PC4,small SUV,8,31,30,30,7,Yes
+LEXUS RX 450h,3.5,6,SCV-6,4WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GTYXT03.5PC4,standard SUV,7,30,28,30,7,Yes
+LEXUS RX 450h,3.5,6,SCV-6,4WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,GTYXT03.5PC4,standard SUV,8,30,28,30,7,Yes
+LINCOLN MKZ Hybrid,2,4,CVT,2WD,Gasoline,CA,B3,Federal Tier 2 Bin 3,GFMXV02.0VZN,midsize car,7,41,39,40,9,Yes
+LINCOLN MKZ Hybrid,2,4,CVT,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GFMXV02.0VZN,midsize car,7,41,39,40,9,Yes
+LINCOLN MKZ Hybrid,2,4,CVT,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GFMXV02.0VZS,midsize car,7,41,39,40,9,Yes
+LINCOLN MKZ Hybrid,2,4,CVT,2WD,Gasoline,CA,PZEV,California PZEV,GFMXV02.0VZS,midsize car,9,41,39,40,9,Yes
+MAZDA 2,1.5,4,Man-6,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GTKXV01.55BB,small car,5,31,42,35,8,Yes
+MAZDA 2,1.5,4,Man-6,2WD,Gasoline,CA,L2ULEV125,California LEV-II ULEV125,GTKXV01.55BB,small car,6,31,42,35,8,Yes
+MAZDA 2,1.5,4,SemiAuto-6,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GTKXV01.55BB,small car,5,33,43,37,8,Yes
+MAZDA 2,1.5,4,SemiAuto-6,2WD,Gasoline,CA,L2ULEV125,California LEV-II ULEV125,GTKXV01.55BB,small car,6,33,43,37,8,Yes
+MAZDA 3,2,4,Man-6,2WD,Gasoline,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GTKXV02.0ND1,midsize car,9,29,40,33,8,Yes
+MAZDA 3,2,4,Man-6,2WD,Gasoline,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GTKXV02.0ND1,small car,9,29,41,33,8,Yes
+MAZDA 3,2,4,Man-6,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GTKXV02.55NM,midsize car,5,29,40,33,8,Yes
+MAZDA 3,2,4,Man-6,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GTKXV02.55NM,small car,5,29,41,33,8,Yes
+MAZDA 3,2,4,Man-6,2WD,Gasoline,CA,L2ULEV125,California LEV-II ULEV125,GTKXV02.55NM,midsize car,6,29,40,33,8,Yes
+MAZDA 3,2,4,Man-6,2WD,Gasoline,CA,L2ULEV125,California LEV-II ULEV125,GTKXV02.55NM,small car,6,29,41,33,8,Yes
+MAZDA 3,2,4,SemiAuto-6,2WD,Gasoline,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GTKXV02.0ND1,midsize car,9,30,40,33,8,Yes
+MAZDA 3,2,4,SemiAuto-6,2WD,Gasoline,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GTKXV02.0ND1,small car,9,30,41,34,8,Yes
+MAZDA 3,2,4,SemiAuto-6,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GTKXV02.55NM,midsize car,5,30,40,33,8,Yes
+MAZDA 3,2,4,SemiAuto-6,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GTKXV02.55NM,small car,5,30,41,34,8,Yes
+MAZDA 3,2.5,4,Man-6,2WD,Gasoline,CA,L2ULEV125,California LEV-II ULEV125,GTKXV02.55NM,midsize car,6,26,35,29,7,Yes
+MAZDA 3,2.5,4,Man-6,2WD,Gasoline,CA,L2ULEV125,California LEV-II ULEV125,GTKXV02.55NM,small car,6,25,37,29,7,Yes
+MAZDA 3,2.5,4,SemiAuto-6,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GTKXV02.55NM,midsize car,5,28,39,32,8,Yes
+MAZDA 3,2.5,4,SemiAuto-6,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GTKXV02.55NM,small car,5,28,39,32,8,Yes
+MAZDA 3,2.5,4,SemiAuto-6,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GTKXV02.55NM,small car,5,29,40,33,8,Yes
+MAZDA 3,2.5,4,SemiAuto-6,2WD,Gasoline,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GTKXV02.5ND2,midsize car,9,27,37,31,7,Yes
+MAZDA 3,2.5,4,SemiAuto-6,2WD,Gasoline,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GTKXV02.5ND2,midsize car,9,28,39,32,8,Yes
+MAZDA 3,2.5,4,SemiAuto-6,2WD,Gasoline,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GTKXV02.5ND2,small car,9,28,39,32,8,Yes
+MAZDA 3,2.5,4,SemiAuto-6,2WD,Gasoline,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GTKXV02.5ND2,small car,9,29,40,33,8,Yes
+MAZDA 6,2.5,4,Man-6,2WD,Gasoline,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GTKXV02.5ND1,midsize car,9,25,37,29,7,Yes
+MAZDA 6,2.5,4,SemiAuto-6,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GTKXV02.55NM,midsize car,5,28,40,32,8,Yes
+MAZDA 6,2.5,4,SemiAuto-6,2WD,Gasoline,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GTKXV02.5ND1,midsize car,9,26,38,31,7,Yes
+MAZDA 6,2.5,4,SemiAuto-6,2WD,Gasoline,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GTKXV02.5ND1,midsize car,9,28,40,32,8,Yes
+MAZDA CX-3,2,4,SemiAuto-6,2WD,Gasoline,CA,L2ULEV125,California LEV-II ULEV125,GTKXV02.55NM,small car,6,29,35,31,7,Yes
+MAZDA CX-3,2,4,SemiAuto-6,4WD,Gasoline,CA,L2ULEV125,California LEV-II ULEV125,GTKXV02.55NM,small car,6,27,32,29,7,Yes
+MAZDA CX-5 2WD,2,4,Man-6,2WD,Gasoline,CA,L2ULEV125,California LEV-II ULEV125,GTKXT02.55BA,small SUV,6,26,35,29,7,Yes
+MAZDA CX-5 2WD,2.5,4,SemiAuto-6,2WD,Gasoline,CA,L2ULEV125,California LEV-II ULEV125,GTKXT02.55BA,small SUV,6,26,33,29,7,Yes
+MAZDA MX-5,2,4,Man-6,2WD,Gasoline,CA,L2ULEV125,California LEV-II ULEV125,GTKXV02.05BB,small car,6,27,34,30,7,Yes
+MAZDA MX-5,2,4,SemiAuto-6,2WD,Gasoline,CA,L2ULEV125,California LEV-II ULEV125,GTKXV02.05BB,small car,6,27,36,30,7,Yes
+MERCEDES-BENZ B250e,N/A,N/A,Auto-1,2WD,Electricity,FA,B1,Federal Tier 2 Bin 1,GMBXV00.0ED2,midsize car,10,85,82,84,10,Elite
+MERCEDES-BENZ B250e,N/A,N/A,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,GMBXV00.0ED2,midsize car,10,85,82,84,10,Elite
+MERCEDES-BENZ C300,2,4,Auto-7,2WD,Gasoline,CA,L3ULEV70,California LEV-III ULEV70,GMBXJ02.0U2C,small car,7,25,34,28,7,Yes
+MERCEDES-BENZ CLA250,2,4,AutoMan-7,2WD,Gasoline,CA,L3ULEV70,California LEV-III ULEV70,GMBXJ02.0U2B,small car,7,26,38,30,7,Yes
+MERCEDES-BENZ E250 Bluetec,2.1,4,Auto-7,2WD,Diesel,CA,U2,California LEV-II ULEV,GMBXV02.1U2B,midsize car,6,28,42,33,7,Yes
+MERCEDES-BENZ GLA 250,2,4,AutoMan-7,2WD,Gasoline,CA,L3ULEV70,California LEV-III ULEV70,GMBXJ02.0U2B,station wagon,7,25,35,29,7,Yes
+MERCEDES-BENZ SLK300,2,4,Auto-9,2WD,Gasoline,CA,L3ULEV125,California LEV-III ULEV125,GMBXV02.0U2A,small car,6,25,32,28,7,Yes
+MINI Cooper Countryman,1.6,4,Man-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GBMXV01.6N16,small car,6,27,32,29,7,Yes
+MINI Cooper Hardtop,1.5,4,Man-6,2WD,Gasoline,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GBMXV01.5M36,small car,9,28,39,32,8,Yes
+MINI Cooper Hardtop,1.5,4,Man-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,GBMXV01.5M36,small car,8,28,39,32,8,Yes
+MINI Cooper Hardtop,1.5,4,SemiAuto-6,2WD,Gasoline,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GBMXV01.5M36,small car,9,27,37,31,7,Yes
+MINI Cooper Hardtop,1.5,4,SemiAuto-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,GBMXV01.5M36,small car,8,27,37,31,7,Yes
+MINI Cooper Paceman,1.6,4,Man-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GBMXV01.6N16,small car,6,27,32,29,7,Yes
+MINI Cooper S Countryman,1.6,4,Man-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GBMXV01.6N18,small car,6,26,32,29,7,Yes
+MINI Cooper S Countryman,1.6,4,SemiAuto-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GBMXV01.6N18,small car,6,25,32,28,7,Yes
+MINI Cooper S Hardtop,2,4,SemiAuto-6,2WD,Gasoline,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GBMXV02.0M46,small car,9,26,33,29,7,Yes
+MINI Cooper S Hardtop,2,4,SemiAuto-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,GBMXV02.0M46,small car,8,26,33,29,7,Yes
+MINI Cooper S Paceman,1.6,4,Man-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GBMXV01.6N18,small car,6,26,32,29,7,Yes
+MINI Cooper S Paceman,1.6,4,SemiAuto-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GBMXV01.6N18,small car,6,25,32,28,7,Yes
+MINI Cooper Works Hardtop,2,4,SemiAuto-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GBMXV02.0M48,small car,6,25,31,28,7,Yes
+MITSUBISHI Lancer,2,4,SCV-6,2WD,Gasoline,CA,L3ULEV70,California LEV-III ULEV70,GMTXV02.0G5P,small car,7,27,35,30,7,Yes
+MITSUBISHI Lancer,2,4,SCV-6,2WD,Gasoline,FA,T3B70,Federal Tier 3 Bin 70,GMTXV02.0G5P,small car,7,27,35,30,7,Yes
+MITSUBISHI i-MiEV,N/A,N/A,Auto-1,2WD,Electricity,FA,B1,Federal Tier 2 Bin 1,GMTXV00.0EAT,small car,10,126,99,112,10,Elite
+MITSUBISHI i-MiEV,N/A,N/A,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,GMTXV00.0EAT,small car,10,126,99,112,10,Elite
+NISSAN Juke,1.6,4,Man-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GNSXV01.6GDA,station wagon,6,28,34,30,7,Yes
+NISSAN Juke,1.6,4,SCV-7,2WD,Gasoline,CA,U2,California LEV-II ULEV,GNSXV01.6GDA,station wagon,6,28,32,30,7,Yes
+NISSAN Juke,1.6,4,SCV-7,4WD,Gasoline,CA,U2,California LEV-II ULEV,GNSXV01.6GDA,station wagon,6,26,31,28,7,Yes
+NISSAN Leaf,N/A,N/A,Auto-1,2WD,Electricity,FA,B1,Federal Tier 2 Bin 1,GNSXV0000LLA,midsize car,10,126,101,114,10,Elite
+NISSAN Leaf,N/A,N/A,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,GNSXV0000LLA,midsize car,10,126,101,114,10,Elite
+NISSAN Leaf,N/A,N/A,Auto-1,2WD,Electricity,FA,B1,Federal Tier 2 Bin 1,GNSXV0000LLB,midsize car,10,124,101,112,10,Elite
+NISSAN Leaf,N/A,N/A,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,GNSXV0000LLB,midsize car,10,124,101,112,10,Elite
+NISSAN Rogue,2.5,4,CVT,2WD,Gasoline,CA,L3ULEV70,California LEV-III ULEV70,GNSXT02.525A,small SUV,7,26,33,28,7,Yes
+NISSAN Rogue,2.5,4,CVT,2WD,Gasoline,CA,U2,California LEV-II ULEV,GNSXT02.5G5D,small SUV,6,26,33,28,7,Yes
+NISSAN Rogue,2.5,4,CVT,4WD,Gasoline,CA,L3ULEV70,California LEV-III ULEV70,GNSXT02.525A,small SUV,7,25,32,28,7,Yes
+NISSAN Rogue,2.5,4,CVT,4WD,Gasoline,CA,U2,California LEV-II ULEV,GNSXT02.5G5B,small SUV,6,25,32,28,7,Yes
+NISSAN Versa,1.6,4,Auto-4,2WD,Gasoline,CA,U2,California LEV-II ULEV,GNSXV01.6G4A,small car,6,26,35,30,7,Yes
+NISSAN Versa,1.6,4,CVT,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GNSXV01.6G4A,small car,5,31,40,35,8,Yes
+NISSAN Versa,1.6,4,CVT,2WD,Gasoline,CA,U2,California LEV-II ULEV,GNSXV01.6G4A,small car,6,31,40,35,8,Yes
+NISSAN Versa,1.6,4,Man-5,2WD,Gasoline,CA,U2,California LEV-II ULEV,GNSXV01.6G4A,small car,6,27,36,30,7,Yes
+PORSCHE Cayenne S e-Hybrid,3,6,AutoMan-8,4WD,Gasoline/Electricity,FA,B5,Federal Tier 2 Bin 5,GPRXJ03.0PHV,standard SUV,5,21/48,24/46,22/47,8,Yes
+PORSCHE Cayenne S e-Hybrid,3,6,AutoMan-8,4WD,Gasoline/Electricity,CA,U2,California LEV-II ULEV,GPRXJ03.0PHV,standard SUV,6,21/48,24/46,22/47,8,Yes
+PORSCHE Panamera S E-Hybrid,3,6,AMS-8,2WD,Gasoline/Electricity,FA,B5,Federal Tier 2 Bin 5,GPRXJ03.0PHV,large car,5,23/43,29/66,25/51,9,Yes
+PORSCHE Panamera S E-Hybrid,3,6,AMS-8,2WD,Gasoline/Electricity,CA,U2,California LEV-II ULEV,GPRXJ03.0PHV,large car,6,23/43,29/66,25/51,9,Yes
+SCION iA,1.5,4,Man-6,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GTYXV01.5FEA,small car,5,31,41,35,8,Yes
+SCION iA,1.5,4,Man-6,2WD,Gasoline,CA,L2ULEV125,California LEV-II ULEV125,GTYXV01.5FEA,small car,6,31,41,35,8,Yes
+SCION iA,1.5,4,SemiAuto-6,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GTYXV01.5FEA,small car,5,33,42,37,8,Yes
+SCION iA,1.5,4,SemiAuto-6,2WD,Gasoline,CA,L2ULEV125,California LEV-II ULEV125,GTYXV01.5FEA,small car,6,33,42,37,8,Yes
+SCION iM,1.8,4,Man-6,2WD,Gasoline,CA,L3ULEV70,California LEV-III ULEV70,GTYXV01.8MEB,midsize car,7,27,36,31,7,Yes
+SCION iM,1.8,4,SCV-7,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GTYXV01.8MEB,midsize car,5,28,37,32,8,Yes
+SCION iM,1.8,4,SCV-7,2WD,Gasoline,CA,L3ULEV70,California LEV-III ULEV70,GTYXV01.8MEB,midsize car,7,28,37,32,8,Yes
+SMART ForTwo Cabriolet,N/A,N/A,Auto-1,2WD,Electricity,FA,B1,Federal Tier 2 Bin 1,GMBXV00.0ED1,small car,10,122,93,107,10,Elite
+SMART ForTwo Cabriolet,N/A,N/A,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,GMBXV00.0ED1,small car,10,122,93,107,10,Elite
+SMART ForTwo Coupe,.9,3,AutoMan-6,2WD,Gasoline,CA,L3ULEV70,California LEV-III ULEV70,GMBXV00.9U2A,small car,7,34,39,36,8,Yes
+SMART ForTwo Coupe,.9,3,AutoMan-6,2WD,Gasoline,FA,T3B70,Federal Tier 3 Bin 70,GMBXV00.9U2A,small car,7,34,39,36,8,Yes
+SMART ForTwo Coupe,.9,3,Man-5,2WD,Gasoline,CA,L3ULEV70,California LEV-III ULEV70,GMBXV00.9U2A,small car,7,32,39,35,8,Yes
+SMART ForTwo Coupe,.9,3,Man-5,2WD,Gasoline,FA,T3B70,Federal Tier 3 Bin 70,GMBXV00.9U2A,small car,7,32,39,35,8,Yes
+SMART ForTwo Coupe,N/A,N/A,Auto-1,2WD,Electricity,FA,B1,Federal Tier 2 Bin 1,GMBXV00.0ED1,small car,10,122,93,107,10,Elite
+SMART ForTwo Coupe,N/A,N/A,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,GMBXV00.0ED1,small car,10,122,93,107,10,Elite
+SUBARU Crosstrek,2,4,SCV-6,4WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GFJXJ02.5NKR,small SUV,6,26,34,29,7,Yes
+SUBARU Crosstrek,2,4,SCV-6,4WD,Gasoline,CA,PZEV,California PZEV,GFJXJ02.5NKR,small SUV,9,26,34,29,7,Yes
+SUBARU Crosstrek Hybrid,2,4,SCV-6,4WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GFJXT02.0GNS,small SUV,7,30,34,31,7,Yes
+SUBARU Crosstrek Hybrid,2,4,SCV-6,4WD,Gasoline,CA,PZEV,California PZEV,GFJXT02.0GNS,small SUV,9,30,34,31,7,Yes
+SUBARU Impreza,2,4,Man-5,4WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GFJXJ02.5NKR,small car,6,25,34,28,7,Yes
+SUBARU Impreza,2,4,Man-5,4WD,Gasoline,CA,PZEV,California PZEV,GFJXJ02.5NKR,small car,9,25,34,28,7,Yes
+SUBARU Impreza,2,4,SCV-6,4WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GFJXJ02.5NKR,small car,6,28,37,31,7,Yes
+SUBARU Impreza,2,4,SCV-6,4WD,Gasoline,CA,PZEV,California PZEV,GFJXJ02.5NKR,small car,9,28,37,31,7,Yes
+SUBARU Impreza Sport,2,4,Man-5,4WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GFJXJ02.5NKR,station wagon,6,24,33,28,7,Yes
+SUBARU Impreza Sport,2,4,Man-5,4WD,Gasoline,CA,PZEV,California PZEV,GFJXJ02.5NKR,station wagon,9,24,33,28,7,Yes
+SUBARU Impreza Sport,2,4,SCV-6,4WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GFJXJ02.5NKR,station wagon,6,27,36,31,7,Yes
+SUBARU Impreza Sport,2,4,SCV-6,4WD,Gasoline,CA,PZEV,California PZEV,GFJXJ02.5NKR,station wagon,9,27,36,31,7,Yes
+SUBARU Impreza Wagon,2,4,Man-5,4WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GFJXJ02.5NKR,station wagon,6,25,34,28,7,Yes
+SUBARU Impreza Wagon,2,4,Man-5,4WD,Gasoline,CA,PZEV,California PZEV,GFJXJ02.5NKR,station wagon,9,25,34,28,7,Yes
+SUBARU Impreza Wagon,2,4,SCV-6,4WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GFJXJ02.5NKR,station wagon,6,28,37,31,7,Yes
+SUBARU Impreza Wagon,2,4,SCV-6,4WD,Gasoline,CA,PZEV,California PZEV,GFJXJ02.5NKR,station wagon,9,28,37,31,7,Yes
+SUBARU Legacy,2.5,4,SCV-6,4WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GFJXJ02.5HRV,midsize car,6,26,36,30,7,Yes
+SUBARU Outback,2.5,4,SCV-6,4WD,Gasoline,FA,B4,Federal Tier 2 Bin 4,GFJXJ02.5HRV,small SUV,6,25,33,28,7,Yes
+TESLA Model X AWD,N/A,N/A,Auto-1,4WD,Electricity,FA,B1,Federal Tier 2 Bin 1,GTSLV00.0L2X,standard SUV,10,89,90,89,10,Elite
+TESLA Model X AWD,N/A,N/A,Auto-1,4WD,Electricity,FA,B1,Federal Tier 2 Bin 1,GTSLV00.0L2X,standard SUV,10,90,94,92,10,Elite
+TESLA Model X AWD,N/A,N/A,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,GTSLV00.0L2X,standard SUV,10,89,90,89,10,Elite
+TESLA Model X AWD,N/A,N/A,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,GTSLV00.0L2X,standard SUV,10,90,94,92,10,Elite
+TOYOTA Avalon Hybrid,2.5,4,SCV-6,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GTYXV02.5PC4,midsize car,7,40,39,40,9,Yes
+TOYOTA Avalon Hybrid,2.5,4,SCV-6,2WD,Gasoline,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GTYXV02.5PC4,midsize car,9,40,39,40,9,Yes
+TOYOTA Camry,2.5,4,SemiAuto-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GTYXJ02.5BEL,midsize car,6,25,35,28,7,Yes
+TOYOTA Camry,2.5,4,SemiAuto-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GTYXV02.5BED,midsize car,6,25,35,28,7,Yes
+TOYOTA Camry Hybrid LE,2.5,4,CVT,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GTYXV02.5PC4,midsize car,7,43,39,41,9,Yes
+TOYOTA Camry Hybrid LE,2.5,4,CVT,2WD,Gasoline,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GTYXV02.5PC4,midsize car,9,43,39,41,9,Yes
+TOYOTA Camry Hybrid XLE/SE,2.5,4,CVT,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GTYXV02.5PC4,midsize car,7,40,38,40,9,Yes
+TOYOTA Camry Hybrid XLE/SE,2.5,4,CVT,2WD,Gasoline,CA,L3SULEV30/PZEV,California LEV-III SULEV30/PZEV,GTYXV02.5PC4,midsize car,9,40,38,40,9,Yes
+TOYOTA Corolla,1.8,4,Auto-4,2WD,Gasoline,CA,U2,California LEV-II ULEV,GTYXV01.8BEC,midsize car,6,27,36,31,7,Yes
+TOYOTA Corolla,1.8,4,CVT,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GTYXV01.8BEC,midsize car,5,29,38,32,8,Yes
+TOYOTA Corolla,1.8,4,CVT,2WD,Gasoline,CA,U2,California LEV-II ULEV,GTYXV01.8BEC,midsize car,6,29,38,32,8,Yes
+TOYOTA Corolla,1.8,4,Man-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GTYXV01.8BEC,midsize car,6,28,37,31,7,Yes
+TOYOTA Corolla,1.8,4,SCV-7,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GTYXV01.8BEC,midsize car,5,29,37,32,8,Yes
+TOYOTA Corolla,1.8,4,SCV-7,2WD,Gasoline,CA,U2,California LEV-II ULEV,GTYXV01.8BEC,midsize car,6,29,37,32,8,Yes
+TOYOTA Corolla LE Eco,1.8,4,CVT,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GTYXV01.8MEA,midsize car,5,30,40,34,8,Yes
+TOYOTA Corolla LE Eco,1.8,4,CVT,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GTYXV01.8MEA,midsize car,5,30,42,35,8,Yes
+TOYOTA Corolla LE Eco,1.8,4,CVT,2WD,Gasoline,CA,L3ULEV70,California LEV-III ULEV70,GTYXV01.8MEA,midsize car,7,30,40,34,8,Yes
+TOYOTA Corolla LE Eco,1.8,4,CVT,2WD,Gasoline,CA,L3ULEV70,California LEV-III ULEV70,GTYXV01.8MEA,midsize car,7,30,42,35,8,Yes
+TOYOTA Mirai,N/A,N/A,CVT,2WD,Hydrogen,FA,B1,Federal Tier 2 Bin 1,GTYXV00.0DA7,small car,10,67,67,67,10,Elite
+TOYOTA Mirai,N/A,N/A,CVT,2WD,Hydrogen,CA,ZEV,California ZEV,GTYXV00.0DA7,small car,10,67,67,67,10,Elite
+TOYOTA Prius c,1.5,4,CVT,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GTYXV01.5CC4,small car,7,53,46,50,10,Yes
+TOYOTA Prius c,1.5,4,CVT,2WD,Gasoline,CA,S2,California LEV-II SULEV,GTYXV01.5CC4,small car,8,53,46,50,10,Yes
+TOYOTA Prius v,1.8,4,CVT,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GTYXV01.8PCU,station wagon,7,44,40,42,9,Yes
+TOYOTA Prius v,1.8,4,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,GTYXV01.8PCU,station wagon,8,44,40,42,9,Yes
+TOYOTA Yaris,1.5,4,Auto-4,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GTYXV01.5BEB,small car,5,30,36,32,8,Yes
+TOYOTA Yaris,1.5,4,Auto-4,2WD,Gasoline,CA,U2,California LEV-II ULEV,GTYXV01.5BEB,small car,6,30,36,32,8,Yes
+TOYOTA Yaris,1.5,4,Man-5,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GTYXV01.5BEB,small car,5,30,37,33,8,Yes
+TOYOTA Yaris,1.5,4,Man-5,2WD,Gasoline,CA,U2,California LEV-II ULEV,GTYXV01.5BEB,small car,6,30,37,33,8,Yes
+TOYOTA Yaris,1.5,4,Man-6,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GTYXV01.5FEA,small car,5,31,41,35,8,Yes
+TOYOTA Yaris,1.5,4,SemiAuto-6,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GTYXV01.5FEA,small car,5,33,42,37,8,Yes
+VOLKSWAGEN Beetle,1.8,4,Man-5,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GVGAV02.0VPD,small car,7,25,34,28,7,Yes
+VOLKSWAGEN Beetle,1.8,4,Man-5,2WD,Gasoline,CA,PZEV,California PZEV,GVGAV02.0VPD,small car,9,25,34,28,7,Yes
+VOLKSWAGEN Beetle,1.8,4,SemiAuto-6,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GVGAV02.0VPD,small car,7,25,34,28,7,Yes
+VOLKSWAGEN Beetle,1.8,4,SemiAuto-6,2WD,Gasoline,CA,PZEV,California PZEV,GVGAV02.0VPD,small car,9,25,34,28,7,Yes
+VOLKSWAGEN Beetle Convertible,1.8,4,SemiAuto-6,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GVGAV02.0VPD,small car,7,25,34,28,7,Yes
+VOLKSWAGEN Beetle Convertible,1.8,4,SemiAuto-6,2WD,Gasoline,CA,PZEV,California PZEV,GVGAV02.0VPD,small car,9,25,34,28,7,Yes
+VOLKSWAGEN GTI,2,4,AMS-6,2WD,Gasoline,FA,B2,Federal Tier 2 Bin 2,GVGAV02.0APA,small car,9,25,33,28,7,Yes
+VOLKSWAGEN GTI,2,4,AMS-6,2WD,Gasoline,CA,PZEV,California PZEV,GVGAV02.0APA,small car,9,25,33,28,7,Yes
+VOLKSWAGEN GTI,2,4,Man-6,2WD,Gasoline,FA,B2,Federal Tier 2 Bin 2,GVGAV02.0APA,small car,9,25,34,28,7,Yes
+VOLKSWAGEN GTI,2,4,Man-6,2WD,Gasoline,CA,PZEV,California PZEV,GVGAV02.0APA,small car,9,25,34,28,7,Yes
+VOLKSWAGEN Golf,1.8,4,Man-5,2WD,Gasoline,FA,B2,Federal Tier 2 Bin 2,GVGAV02.0APA,small car,9,25,37,30,7,Yes
+VOLKSWAGEN Golf,1.8,4,Man-5,2WD,Gasoline,CA,PZEV,California PZEV,GVGAV02.0APA,small car,9,25,37,30,7,Yes
+VOLKSWAGEN Golf,1.8,4,SemiAuto-6,2WD,Gasoline,FA,B2,Federal Tier 2 Bin 2,GVGAV02.0APA,small car,9,25,36,29,7,Yes
+VOLKSWAGEN Golf,1.8,4,SemiAuto-6,2WD,Gasoline,CA,PZEV,California PZEV,GVGAV02.0APA,small car,9,25,36,29,7,Yes
+VOLKSWAGEN Golf SportWagen,1.8,4,Man-5,2WD,Gasoline,FA,B2,Federal Tier 2 Bin 2,GVGAV02.0APA,station wagon,9,25,36,29,7,Yes
+VOLKSWAGEN Golf SportWagen,1.8,4,Man-5,2WD,Gasoline,CA,PZEV,California PZEV,GVGAV02.0APA,station wagon,9,25,36,29,7,Yes
+VOLKSWAGEN Golf SportWagen,1.8,4,SemiAuto-6,2WD,Gasoline,FA,B2,Federal Tier 2 Bin 2,GVGAV02.0APA,station wagon,9,25,35,29,7,Yes
+VOLKSWAGEN Golf SportWagen,1.8,4,SemiAuto-6,2WD,Gasoline,CA,PZEV,California PZEV,GVGAV02.0APA,station wagon,9,25,35,29,7,Yes
+VOLKSWAGEN Jetta,1.4,4,Man-5,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GVGAV01.4VUP,small car,5,28,40,33,8,Yes
+VOLKSWAGEN Jetta,1.4,4,Man-5,2WD,Gasoline,CA,U2,California LEV-II ULEV,GVGAV01.4VUP,small car,6,28,40,33,8,Yes
+VOLKSWAGEN Jetta,1.4,4,SemiAuto-6,2WD,Gasoline,FA,B5,Federal Tier 2 Bin 5,GVGAV01.4VUP,small car,5,28,39,32,8,Yes
+VOLKSWAGEN Jetta,1.4,4,SemiAuto-6,2WD,Gasoline,CA,U2,California LEV-II ULEV,GVGAV01.4VUP,small car,6,28,39,32,8,Yes
+VOLKSWAGEN Jetta,1.8,4,Man-5,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GVGAV02.0VPD,small car,7,25,37,29,7,Yes
+VOLKSWAGEN Jetta,1.8,4,Man-5,2WD,Gasoline,CA,PZEV,California PZEV,GVGAV02.0VPD,small car,9,25,37,29,7,Yes
+VOLKSWAGEN Jetta,1.8,4,SemiAuto-6,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GVGAV02.0VPD,small car,7,25,36,29,7,Yes
+VOLKSWAGEN Jetta,1.8,4,SemiAuto-6,2WD,Gasoline,CA,PZEV,California PZEV,GVGAV02.0VPD,small car,9,25,36,29,7,Yes
+VOLKSWAGEN Jetta Hybrid,1.4,4,AMS-7,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GVGAV01.4VPA,small car,7,42,48,44,9,Yes
+VOLKSWAGEN Jetta Hybrid,1.4,4,AMS-7,2WD,Gasoline,CA,PZEV,California PZEV,GVGAV01.4VPA,small car,9,42,48,44,9,Yes
+VOLKSWAGEN Passat,1.8,4,SemiAuto-6,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GVGAV02.0VPD,midsize car,7,25,38,29,7,Yes
+VOLKSWAGEN Passat,1.8,4,SemiAuto-6,2WD,Gasoline,CA,PZEV,California PZEV,GVGAV02.0VPD,midsize car,9,25,38,29,7,Yes
+VOLKSWAGEN e-Golf,N/A,N/A,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,GVGAV00.0VZZ,small car,10,126,105,116,10,Elite
+VOLVO S60,2,4,SemiAuto-8,2WD,Gasoline,FA,B3,Federal Tier 2 Bin 3,GVVXV02.0S3T,small car,7,26,38,30,7,Yes
+VOLVO S60,2,4,SemiAuto-8,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,GVVXV02.0S3T,small car,8,26,38,30,7,Yes
+VOLVO S60,2,4,SemiAuto-8,2WD,Gasoline,CA,L3ULEV125,California LEV-III ULEV125,GVVXV02.0U3T,small car,6,26,38,30,7,Yes
+VOLVO S60 Inscription,2,4,SemiAuto-8,2WD,Gasoline,CA,L3ULEV125,California LEV-III ULEV125,GVVXV02.0U3T,small car,6,25,37,29,7,Yes
+VOLVO S80,2,4,SemiAuto-8,2WD,Gasoline,CA,L3ULEV125,California LEV-III ULEV125,GVVXV02.0U3T,midsize car,6,25,37,29,7,Yes
+VOLVO V60,2,4,SemiAuto-8,2WD,Gasoline,CA,L3ULEV125,California LEV-III ULEV125,GVVXV02.0U3T,station wagon,6,25,37,29,7,Yes

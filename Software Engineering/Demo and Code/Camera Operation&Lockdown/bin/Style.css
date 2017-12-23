@@ -1,0 +1,125 @@
+
+#ButtonsOnMidLeft{
+    -fx-background-color: 
+        #c3c4c4,
+        linear-gradient(#12B2A1 50%, blue 100%),
+        radial-gradient(center 50% -40%, radius 200%, #ACF0F2 45%, rgba(230,230,230,0) 50%);
+    -fx-background-radius: 30;
+    -fx-background-insets: 0,1,1;
+    -fx-text-fill: black;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 3, 0.0 , 0 , 1 );
+}
+#mainVBox{
+	-fx-spacing:6; 
+	-fx-padding:0,0,20,20;
+	-fx-background-color: #1D1D1F;
+}
+#SECURITY{
+	
+}
+
+#ONOFF1{
+	 -fx-background-image: url("GreenButton.jpg");
+	 -fx-background-color: #1D1D1F;
+	 -fx-background-size: 85px 85px;
+ -fx-background-radius: 30em; 
+                -fx-min-width: 88px; 
+                -fx-min-height: 88px; 
+                -fx-max-width: 85px;
+                -fx-max-height: 85px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    
+}
+
+#ONNOFF1:hover{
+	-fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+#ONOFF2{
+	  -fx-background-image: url("RedButton.jpg");
+	  -fx-background-color: #1D1D1F;
+	 -fx-background-size: 85px 85px;
+ -fx-background-radius: 30em; 
+                -fx-min-width: 88px; 
+                -fx-min-height: 88px; 
+                -fx-max-width: 85px;
+                -fx-max-height: 85px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+#name{
+	-fx-text-fill: #fff;
+-fx-background-color: #b8b8b8;
+-fx-text-shadow: #7a7a7a 4px 3px 0;
+}
+#record-sales{
+    -fx-padding: 8 15 15 15;
+    -fx-background-insets: 0,0 0 5 0, 0 0 6 0, 0 0 7 0;
+    -fx-background-radius: 8;
+    -fx-background-color: 
+        linear-gradient(from 0% 93% to 0% 100%, #a34313 0%, #903b12 100%),
+        #9d4024,
+        #d86e3a,
+        radial-gradient(center 50% 50%, radius 100%, #d86e3a, #c54e2c);
+    -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.75) , 4,0,0,1 );
+    -fx-font-weight: bold;
+    -fx-font-size: 1.1em;
+}
+#record-sales:hover {
+    -fx-background-color: 
+        linear-gradient(from 0% 93% to 0% 100%, #a34313 0%, #903b12 100%),
+        #9d4024,
+        #d86e3a,
+        radial-gradient(center 50% 50%, radius 100%, #ea7f4b, #c54e2c);
+}
+#record-sales:pressed {
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+#record-sales Text {
+    -fx-fill: white;
+    -fx-effect: dropshadow( gaussian , #a30000 , 0,0,0,2 );
+}
+
+#topHBox{
+	-fx-spacing:60; -fx-padding:20,10,10,30;
+}
+
+#midLeftVBox{
+	-fx-spacing:15;-fx-font-size:15;-fx-font-weight: bold;
+}
+
+#midRightVBox{
+	-fx-spacing:20;-fx-font-size:20;-fx-font-weight: bolder; -fx-alignment:top-center;
+	-fx-padding:-20,0,0,0;
+	}
+
+#midHBox{
+	-fx-spacing:50;-fx-padding:10,10,10,10;
+}
+
+#TopRightButtons{
+	-fx-spacing:40;-fx-font-size:14;-fx-font-weight: bold; -fx-alignment:center;
+}
+
+
+#TextOnMidRight{
+	   -fx-text-fill: white;
+}
+
+
+#leftbox{
+	-fx-spacing:10; 
+	-fx-background-color:WHITE; 
+	-fx-background-image: url("game2.jpg");
+	-fx-background-size: 200 300;
+	-fx-background-position: top center;
+	-fx-background-repeat: stretch; 
+	-fx-font-size:23; 
+	 -fx-font-weight: bold; 
+	
+}
+
+
+

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="385.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.Controller">
+   <children>
+      <TabPane layoutX="-11.0" layoutY="-9.0" prefHeight="428.0" prefWidth="631.0" tabClosingPolicy="UNAVAILABLE" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <tabs>
+          <Tab fx:id="tabMain" text="Main">
+            <content>
+              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="351.0" prefWidth="600.0">
+                     <children>
+                        <Pane fx:id="outsidePane" layoutX="54.0" layoutY="38.0" prefHeight="356.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                           <children>
+                              <Pane layoutX="4.0" layoutY="4.0" prefHeight="348.0" prefWidth="120.0" styleClass="overlayPane">
+                                 <children>
+                                    <Text layoutX="16.0" layoutY="28.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Current Order" textAlignment="CENTER">
+                                       <font>
+                                          <Font name="Tahoma" size="14.0" />
+                                       </font>
+                                    </Text>
+                                    <Line endX="93.0" layoutX="8.0" layoutY="35.0" startX="8.0" strokeWidth="2.3" />
+                                    <Line endX="93.0" layoutX="7.0" layoutY="279.0" startX="8.0" strokeWidth="2.3" />
+                                    <Button layoutX="15.0" layoutY="316.0" mnemonicParsing="false" onAction="#onCompleteOrder" prefHeight="21.0" prefWidth="88.0" text="Complete Order">
+                                       <font>
+                                          <Font name="Tahoma" size="9.0" />
+                                       </font>
+                                    </Button>
+                                    <ListView fx:id="list" layoutX="5.0" layoutY="48.0" prefHeight="218.0" prefWidth="107.0" />
+                                    <Text fx:id="txtTotal" layoutX="13.0" layoutY="303.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Total:" wrappingWidth="94.8310546875">
+                                       <font>
+                                          <Font size="14.0" />
+                                       </font>
+                                    </Text>
+                                 </children>
+                              </Pane>
+                              <Pane layoutX="130.0" prefHeight="83.0" prefWidth="473.0" styleClass="overlayPane">
+                                 <children>
+                                    <ImageView fitHeight="83.0" fitWidth="293.0" layoutX="76.0" layoutY="7.0" pickOnBounds="true" preserveRatio="true">
+                                       <image>
+                                          <Image url="@../images/bg_title.png" />
+                                       </image>
+                                    </ImageView>
+                                 </children>
+                              </Pane>
+                              <ImageView fitHeight="64.0" fitWidth="516.0" layoutX="129.0" layoutY="88.0" pickOnBounds="true" preserveRatio="true">
+                                 <image>
+                                    <Image url="@../images/bg_coffee.png" />
+                                 </image>
+                              </ImageView>
+                              <ImageView fitHeight="64.0" fitWidth="516.0" layoutX="129.0" layoutY="156.0" pickOnBounds="true" preserveRatio="true">
+                                 <image>
+                                    <Image url="@../images/bg_tea.png" />
+                                 </image>
+                              </ImageView>
+                              <ImageView fitHeight="64.0" fitWidth="516.0" layoutX="129.0" layoutY="224.0" pickOnBounds="true" preserveRatio="true">
+                                 <image>
+                                    <Image url="@../images/bg_soda.png" />
+                                 </image>
+                              </ImageView>
+                              <ImageView fitHeight="64.0" fitWidth="516.0" layoutX="129.0" layoutY="292.0" pickOnBounds="true" preserveRatio="true">
+                                 <image>
+                                    <Image url="@../images/bg_blended.png" />
+                                 </image>
+                              </ImageView>
+                              <Pane layoutX="501.0" layoutY="88.0" prefHeight="55.0" prefWidth="85.0">
+                                 <children>
+                                    <Button fx:id="btcSmall" layoutX="1.0" layoutY="1.0" mnemonicParsing="false" onAction="#btcSmall" prefHeight="18.0" prefWidth="85.0" text="SMALL .90">
+                                       <font>
+                                          <Font name="System Bold" size="8.5" />
+                                       </font>
+                                    </Button>
+                                    <Button fx:id="btcMedium" layoutX="1.0" layoutY="19.0" mnemonicParsing="false" onAction="#btcMedium" prefHeight="18.0" prefWidth="85.0" text="MEDIUM 1.60">
+                                       <font>
+                                          <Font name="System Bold" size="8.5" />
+                                       </font>
+                                    </Button>
+                                    <Button fx:id="btcLarge" layoutX="1.0" layoutY="37.0" mnemonicParsing="false" onAction="#btcLarge" prefHeight="18.0" prefWidth="85.0" text="LARGE 2.00">
+                                       <font>
+                                          <Font size="8.5" />
+                                       </font>
+                                    </Button>
+                                    <Pane layoutX="511.0" layoutY="102.0" prefHeight="55.0" prefWidth="85.0">
+                                       <children>
+                                          <Button layoutX="1.0" layoutY="1.0" mnemonicParsing="false" prefHeight="18.0" prefWidth="85.0" text="SMALL .90">
+                                             <font>
+                                                <Font name="System Bold" size="8.5" />
+                                             </font>
+                                          </Button>
+                                          <Button layoutX="1.0" layoutY="19.0" mnemonicParsing="false" prefHeight="18.0" prefWidth="85.0" text="MEDIUM 1.60">
+                                             <font>
+                                                <Font name="System Bold" size="8.5" />
+                                             </font>
+                                          </Button>
+                                          <Button layoutX="1.0" layoutY="37.0" mnemonicParsing="false" prefHeight="18.0" prefWidth="85.0" text="LARGE 2.00">
+                                             <font>
+                                                <Font size="8.5" />
+                                             </font>
+                                          </Button>
+                                       </children>
+                                    </Pane>
+                                 </children>
+                              </Pane>
+                              <Pane layoutX="501.0" layoutY="157.0" prefHeight="55.0" prefWidth="85.0">
+                                 <children>
+                                    <Button fx:id="bttSmall" layoutX="1.0" layoutY="1.0" mnemonicParsing="false" onAction="#bttSmall" prefHeight="18.0" prefWidth="85.0" text="SMALL 1.25">
+                                       <font>
+                                          <Font name="System Bold" size="8.5" />
+                                       </font>
+                                    </Button>
+                                    <Button fx:id="bttMedium" layoutX="1.0" layoutY="19.0" mnemonicParsing="false" onAction="#bttMedium" prefHeight="18.0" prefWidth="85.0" text="MEDIUM 2.00">
+                                       <font>
+                                          <Font name="System Bold" size="8.5" />
+                                       </font>
+                                    </Button>
+                                    <Button fx:id="bttLarge" layoutX="1.0" layoutY="37.0" mnemonicParsing="false" onAction="#bttLarge" prefHeight="18.0" prefWidth="85.0" text="LARGE 2.50">
+                                       <font>
+                                          <Font size="8.5" />
+                                       </font>
+                                    </Button>
+                                 </children>
+                              </Pane>
+                              <Pane layoutX="501.0" layoutY="225.0" prefHeight="55.0" prefWidth="85.0">
+                                 <children>
+                                    <Button fx:id="btsSmall" layoutX="1.0" layoutY="1.0" mnemonicParsing="false" onAction="#btsSmall" prefHeight="18.0" prefWidth="85.0" text="SMALL 1.25">
+                                       <font>
+                                          <Font name="System Bold" size="8.5" />
+                                       </font>
+                                    </Button>
+                                    <Button fx:id="btsMedium" layoutX="1.0" layoutY="19.0" mnemonicParsing="false" onAction="#btsMedium" prefHeight="18.0" prefWidth="85.0" text="MEDIUM 2.00">
+                                       <font>
+                                          <Font name="System Bold" size="8.5" />
+                                       </font>
+                                    </Button>
+                                    <Button fx:id="btsLarge" layoutX="1.0" layoutY="37.0" mnemonicParsing="false" onAction="#btsLarge" prefHeight="18.0" prefWidth="85.0" text="LARGE 2.50">
+                                       <font>
+                                          <Font size="8.5" />
+                                       </font>
+                                    </Button>
+                                 </children>
+                              </Pane>
+                              <Pane layoutX="501.0" layoutY="293.0" prefHeight="55.0" prefWidth="85.0">
+                                 <children>
+                                    <Button fx:id="btbSmall" layoutX="1.0" layoutY="1.0" mnemonicParsing="false" onAction="#btbSmall" prefHeight="18.0" prefWidth="85.0" text="SMALL 2.50">
+                                       <font>
+                                          <Font name="System Bold" size="8.5" />
+                                       </font>
+                                    </Button>
+                                    <Button fx:id="btbMedium" layoutX="1.0" layoutY="19.0" mnemonicParsing="false" onAction="#btbMedium" prefHeight="18.0" prefWidth="85.0" text="MEDIUM 3.00">
+                                       <font>
+                                          <Font name="System Bold" size="8.5" />
+                                       </font>
+                                    </Button>
+                                    <Button fx:id="btbLarge" layoutX="1.0" layoutY="37.0" mnemonicParsing="false" onAction="#btbLarge" prefHeight="18.0" prefWidth="85.0" text="LARGE 3.50">
+                                       <font>
+                                          <Font size="8.5" />
+                                       </font>
+                                    </Button>
+                                 </children>
+                              </Pane>
+                           </children>
+                        </Pane>
+                     </children>
+                  </AnchorPane>
+            </content>
+          </Tab>
+          <Tab fx:id="tabOrders" onSelectionChanged="#onChangeSelection" text="Orders">
+            <content>
+              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <ListView fx:id="list1" layoutX="21.0" layoutY="16.0" prefHeight="323.0" prefWidth="296.0" />
+                     </children></AnchorPane>
+            </content>
+          </Tab>
+        </tabs>
+      </TabPane>
+   </children>
+</AnchorPane>
